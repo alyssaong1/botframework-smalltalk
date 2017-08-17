@@ -21,23 +21,23 @@ var bot = new builder.UniversalBot(connector, '/');
 bot.dialog('/', [
     (session, args) => {
         // Post user's question to QnA smalltalk kb
-        qnaClient.post({ question: session.message.text }, function (err, result) {
-            if (err) return console.error('Error from callback:', err);
+        qnaClient.post({ question: session.message.text }, function (err, res) {
+            if (err) {
+                console.error('Error from callback:', err);
+                session.send('Oops - something went wrong.');
+                return;
+            }
 
-            if (result) {
+            if (res) {
                 // Send reply from QnA back to user
-                session.send(result);
+                session.send(res);
             } else {
-                // Put whatever default message you want here
+                // Put whatever default message/attachments you want here
                 session.send('Hmm, I didn\'t quite understand you there. Care to rephrase?')
             }
-        })
-            .catch((err) => {
-                console.log('Error from promise:', err);
-                session.send("Oops - something went wrong.");
-            })
+        });
     }
-])
+]);
 
 // Enable Conversation Data persistence
 bot.set('persistConversationData', true);

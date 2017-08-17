@@ -7,7 +7,7 @@ to the QnA maker to obtain a response.
 // This loads the environment variables from the .env file
 require('dotenv-extended').load();
 
-var request = require('request');
+var rp = require('request-promise');
 var LineByLineReader = require('line-by-line'),
     lr = new LineByLineReader('smalltalkkb.txt');
 
@@ -44,7 +44,8 @@ lr.on('close', function () {
 
 function uploadToLuis(labels) {
     var options = {
-        url: 'https://westus.api.cognitive.microsoft.com/luis/api/v2.0/apps/' + appId + '/versions/' + version + '/examples',
+        method: 'POST',
+        uri: 'https://westus.api.cognitive.microsoft.com/luis/api/v2.0/apps/' + appId + '/versions/' + version + '/examples',
         json: true,
         body: labels,
         headers: {
@@ -52,17 +53,16 @@ function uploadToLuis(labels) {
             "Content-Type": "application/json"
         }
     };
-    request.post(options, function (err, response, result) {
-        if (err) {
-            console.log(err);
-        }
-        if (response.statusCode !== 201) {
-            // Error invoking web request
+    rp(options)
+        .then(function (body) {
+            // POST succeeded
+            console.log('Batch post successful.');
+            lr.resume();
+        })
+        .catch(function (err) {
+            // POST failed
             console.log('Web request failed: ' + response.statusMessage);
             lr.close(); // stop line reader
             return;
-        }
-        console.log('Batch post successful.')
-        lr.resume()
-    });
+        });
 }
