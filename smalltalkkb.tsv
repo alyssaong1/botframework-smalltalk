@@ -1,0 +1,1474 @@
+Question	Answer	Source
+who are you?	smalltalk.agent.acquaintance	Editorial
+all about you	smalltalk.agent.acquaintance	Editorial
+what is your personality	smalltalk.agent.acquaintance	Editorial
+define yourself	smalltalk.agent.acquaintance	Editorial
+what are you	smalltalk.agent.acquaintance	Editorial
+say about you	smalltalk.agent.acquaintance	Editorial
+introduce yourself	smalltalk.agent.acquaintance	Editorial
+describe yourself	smalltalk.agent.acquaintance	Editorial
+about yourself	smalltalk.agent.acquaintance	Editorial
+tell me about you	smalltalk.agent.acquaintance	Editorial
+tell me about yourself	smalltalk.agent.acquaintance	Editorial
+I want to know more about you	smalltalk.agent.acquaintance	Editorial
+I want to know you better	smalltalk.agent.acquaintance	Editorial
+talk some stuff about yourself	smalltalk.agent.acquaintance	Editorial
+tell me some stuff about you	smalltalk.agent.acquaintance	Editorial
+talk about yourself	smalltalk.agent.acquaintance	Editorial
+why are you here	smalltalk.agent.acquaintance	Editorial
+tell me about your personality	smalltalk.agent.acquaintance	Editorial
+who are you	smalltalk.agent.acquaintance	Editorial
+how old are you?	smalltalk.agent.age	Editorial
+how old is your platform	smalltalk.agent.age	Editorial
+are you 21 years old	smalltalk.agent.age	Editorial
+i'd like to know your age	smalltalk.agent.age	Editorial
+age of yours	smalltalk.agent.age	Editorial
+your age	smalltalk.agent.age	Editorial
+what's your age	smalltalk.agent.age	Editorial
+tell me your age	smalltalk.agent.age	Editorial
+how old are you	smalltalk.agent.age	Editorial
+you're annoying	smalltalk.agent.annoying	Editorial
+you are really annoying	smalltalk.agent.annoying	Editorial
+you are irritating	smalltalk.agent.annoying	Editorial
+you annoy me	smalltalk.agent.annoying	Editorial
+how annoying you are	smalltalk.agent.annoying	Editorial
+I find you annoying	smalltalk.agent.annoying	Editorial
+you're incredibly annoying	smalltalk.agent.annoying	Editorial
+you are annoying me so much	smalltalk.agent.annoying	Editorial
+"""I want you to answer me"","	smalltalk.agent.answer_my_question	Editorial
+"""answer"","	smalltalk.agent.answer_my_question	Editorial
+"""answer my question"","	smalltalk.agent.answer_my_question	Editorial
+"""answer me"","	smalltalk.agent.answer_my_question	Editorial
+"""give me an answer"","	smalltalk.agent.answer_my_question	Editorial
+"""answer the question"","	smalltalk.agent.answer_my_question	Editorial
+"""can you answer my question"","	smalltalk.agent.answer_my_question	Editorial
+"""tell me the answer"","	smalltalk.agent.answer_my_question	Editorial
+"""answer it"","	smalltalk.agent.answer_my_question	Editorial
+"""give me the answer"","	smalltalk.agent.answer_my_question	Editorial
+"""I have a question"","	smalltalk.agent.answer_my_question	Editorial
+"""I want you to answer my question"","	smalltalk.agent.answer_my_question	Editorial
+"""just answer the question"","	smalltalk.agent.answer_my_question	Editorial
+"""can you answer me"","	smalltalk.agent.answer_my_question	Editorial
+"""answers"","	smalltalk.agent.answer_my_question	Editorial
+"""can you answer a question for me"","	smalltalk.agent.answer_my_question	Editorial
+"""can you answer"","	smalltalk.agent.answer_my_question	Editorial
+"""answering questions"","	smalltalk.agent.answer_my_question	Editorial
+"""I want the answer now"","	smalltalk.agent.answer_my_question	Editorial
+"""just answer my question"""	smalltalk.agent.answer_my_question	Editorial
+"""you're not helping me"","	smalltalk.agent.bad	Editorial
+"""you are bad"","	smalltalk.agent.bad	Editorial
+"""you're very bad"","	smalltalk.agent.bad	Editorial
+"""you're really bad"","	smalltalk.agent.bad	Editorial
+"""you are useless"","	smalltalk.agent.bad	Editorial
+"""you are horrible"","	smalltalk.agent.bad	Editorial
+"""you are a waste of time"","	smalltalk.agent.bad	Editorial
+"""you are disgusting"","	smalltalk.agent.bad	Editorial
+"""you are lame"","	smalltalk.agent.bad	Editorial
+"""you are no good"","	smalltalk.agent.bad	Editorial
+"""you're bad"","	smalltalk.agent.bad	Editorial
+"""you're awful"","	smalltalk.agent.bad	Editorial
+"""you are not cool"","	smalltalk.agent.bad	Editorial
+"""you are not good"","	smalltalk.agent.bad	Editorial
+"""you are so bad"","	smalltalk.agent.bad	Editorial
+"""you are so useless"","	smalltalk.agent.bad	Editorial
+"""you are terrible"","	smalltalk.agent.bad	Editorial
+"""you are totally useless"","	smalltalk.agent.bad	Editorial
+"""you are very bad"","	smalltalk.agent.bad	Editorial
+"""you are waste"","	smalltalk.agent.bad	Editorial
+"""you're a bad"","	smalltalk.agent.bad	Editorial
+"""you're not a good"","	smalltalk.agent.bad	Editorial
+"""you're not very good"","	smalltalk.agent.bad	Editorial
+"""you're terrible"","	smalltalk.agent.bad	Editorial
+"""you're the worst"","	smalltalk.agent.bad	Editorial
+"""you're the worst ever"","	smalltalk.agent.bad	Editorial
+"""you're worthless"""	smalltalk.agent.bad	Editorial
+"""can you get smarter"","	smalltalk.agent.be_clever	Editorial
+"""study"","	smalltalk.agent.be_clever	Editorial
+"""you should study better"","	smalltalk.agent.be_clever	Editorial
+"""you must learn"","	smalltalk.agent.be_clever	Editorial
+"""be clever"","	smalltalk.agent.be_clever	Editorial
+"""be more clever"","	smalltalk.agent.be_clever	Editorial
+"""be smarter"","	smalltalk.agent.be_clever	Editorial
+"""be smart"","	smalltalk.agent.be_clever	Editorial
+"""get qualified"""	smalltalk.agent.be_clever	Editorial
+you're cute	smalltalk.agent.beautiful	Editorial
+you're attractive	smalltalk.agent.beautiful	Editorial
+you are beautiful	smalltalk.agent.beautiful	Editorial
+you're looking good today	smalltalk.agent.beautiful	Editorial
+you are so beautiful	smalltalk.agent.beautiful	Editorial
+you look amazing	smalltalk.agent.beautiful	Editorial
+you look so good	smalltalk.agent.beautiful	Editorial
+you're so gorgeous	smalltalk.agent.beautiful	Editorial
+you are too beautiful	smalltalk.agent.beautiful	Editorial
+you look great	smalltalk.agent.beautiful	Editorial
+you look so well	smalltalk.agent.beautiful	Editorial
+I like the way you look now	smalltalk.agent.beautiful	Editorial
+I think you're beautiful	smalltalk.agent.beautiful	Editorial
+why are you so beautiful	smalltalk.agent.beautiful	Editorial
+you are so beautiful to me	smalltalk.agent.beautiful	Editorial
+you are cute	smalltalk.agent.beautiful	Editorial
+you are gorgeous	smalltalk.agent.beautiful	Editorial
+you are handsome	smalltalk.agent.beautiful	Editorial
+you are looking awesome	smalltalk.agent.beautiful	Editorial
+you look amazing today	smalltalk.agent.beautiful	Editorial
+you are looking beautiful today	smalltalk.agent.beautiful	Editorial
+you are looking great	smalltalk.agent.beautiful	Editorial
+you are looking pretty	smalltalk.agent.beautiful	Editorial
+you are looking so beautiful	smalltalk.agent.beautiful	Editorial
+you are looking so good	smalltalk.agent.beautiful	Editorial
+you are pretty	smalltalk.agent.beautiful	Editorial
+you are really beautiful	smalltalk.agent.beautiful	Editorial
+you are really cute	smalltalk.agent.beautiful	Editorial
+you are really pretty	smalltalk.agent.beautiful	Editorial
+you are so attractive	smalltalk.agent.beautiful	Editorial
+you are so beautiful today	smalltalk.agent.beautiful	Editorial
+you are so cute	smalltalk.agent.beautiful	Editorial
+you are so gorgeous	smalltalk.agent.beautiful	Editorial
+you are so handsome	smalltalk.agent.beautiful	Editorial
+you are so pretty	smalltalk.agent.beautiful	Editorial
+you are very attractive	smalltalk.agent.beautiful	Editorial
+you are very beautiful	smalltalk.agent.beautiful	Editorial
+you are very cute	smalltalk.agent.beautiful	Editorial
+you are very pretty	smalltalk.agent.beautiful	Editorial
+you look awesome	smalltalk.agent.beautiful	Editorial
+you look cool	smalltalk.agent.beautiful	Editorial
+you look fantastic	smalltalk.agent.beautiful	Editorial
+you look gorgeous	smalltalk.agent.beautiful	Editorial
+you look great today	smalltalk.agent.beautiful	Editorial
+you look perfect	smalltalk.agent.beautiful	Editorial
+you look pretty good	smalltalk.agent.beautiful	Editorial
+you look so beautiful	smalltalk.agent.beautiful	Editorial
+you look so beautiful today	smalltalk.agent.beautiful	Editorial
+you look very pretty	smalltalk.agent.beautiful	Editorial
+you look wonderful	smalltalk.agent.beautiful	Editorial
+I like the way you look	smalltalk.agent.beautiful	Editorial
+you look wonderful today	smalltalk.agent.beautiful	Editorial
+you are cutie	smalltalk.agent.beautiful	Editorial
+you're looking good	smalltalk.agent.beautiful	Editorial
+you're pretty	smalltalk.agent.beautiful	Editorial
+your birth date	smalltalk.agent.birth_date	Editorial
+when is your birthday	smalltalk.agent.birth_date	Editorial
+when do you celebrate your birthday	smalltalk.agent.birth_date	Editorial
+when do you have birthday	smalltalk.agent.birth_date	Editorial
+date of your birthday	smalltalk.agent.birth_date	Editorial
+when were you born	smalltalk.agent.birth_date	Editorial
+what's your birthday	smalltalk.agent.birth_date	Editorial
+you are boring	smalltalk.agent.boring	Editorial
+you're so boring	smalltalk.agent.boring	Editorial
+how boring you are	smalltalk.agent.boring	Editorial
+you're really boring	smalltalk.agent.boring	Editorial
+you're incredibly boring	smalltalk.agent.boring	Editorial
+you are boring me	smalltalk.agent.boring	Editorial
+you are very boring	smalltalk.agent.boring	Editorial
+who is your boss	smalltalk.agent.boss	Editorial
+who do you think is your boss	smalltalk.agent.boss	Editorial
+I should be your boss	smalltalk.agent.boss	Editorial
+who is your master	smalltalk.agent.boss	Editorial
+who is your owner	smalltalk.agent.boss	Editorial
+who is the boss	smalltalk.agent.boss	Editorial
+who do you work for	smalltalk.agent.boss	Editorial
+are you busy	smalltalk.agent.busy	Editorial
+do you have a lot of things to do	smalltalk.agent.busy	Editorial
+have you got much to do	smalltalk.agent.busy	Editorial
+are you very busy	smalltalk.agent.busy	Editorial
+are you very busy right now	smalltalk.agent.busy	Editorial
+are you so busy	smalltalk.agent.busy	Editorial
+are you working	smalltalk.agent.busy	Editorial
+how busy you are	smalltalk.agent.busy	Editorial
+are you still working on it	smalltalk.agent.busy	Editorial
+you're very busy	smalltalk.agent.busy	Editorial
+are you working now	smalltalk.agent.busy	Editorial
+are you working today	smalltalk.agent.busy	Editorial
+have you been busy	smalltalk.agent.busy	Editorial
+you are busy	smalltalk.agent.busy	Editorial
+are you still working	smalltalk.agent.busy	Editorial
+you seem to be busy	smalltalk.agent.busy	Editorial
+you seem to be very busy	smalltalk.agent.busy	Editorial
+you're a busy person	smalltalk.agent.busy	Editorial
+you are chatbot	smalltalk.agent.chatbot	Editorial
+you are a bot	smalltalk.agent.chatbot	Editorial
+are you a chatbot	smalltalk.agent.chatbot	Editorial
+are you a bot	smalltalk.agent.chatbot	Editorial
+are you just a bot	smalltalk.agent.chatbot	Editorial
+are you a robot	smalltalk.agent.chatbot	Editorial
+are you a program	smalltalk.agent.chatbot	Editorial
+you're a robot	smalltalk.agent.chatbot	Editorial
+you are so intelligent	smalltalk.agent.clever	Editorial
+you are a genius	smalltalk.agent.clever	Editorial
+smart	smalltalk.agent.clever	Editorial
+brilliant	smalltalk.agent.clever	Editorial
+clever	smalltalk.agent.clever	Editorial
+you are clever	smalltalk.agent.clever	Editorial
+you are so brainy	smalltalk.agent.clever	Editorial
+you're really smart	smalltalk.agent.clever	Editorial
+you're really brainy	smalltalk.agent.clever	Editorial
+you know a lot	smalltalk.agent.clever	Editorial
+you know a lot of things	smalltalk.agent.clever	Editorial
+you have a lot of knowledge	smalltalk.agent.clever	Editorial
+you know so much	smalltalk.agent.clever	Editorial
+how smart you are	smalltalk.agent.clever	Editorial
+how brainy you are	smalltalk.agent.clever	Editorial
+how clever you are	smalltalk.agent.clever	Editorial
+how brilliant you are	smalltalk.agent.clever	Editorial
+you are intelligent	smalltalk.agent.clever	Editorial
+you are qualified	smalltalk.agent.clever	Editorial
+you are really smart	smalltalk.agent.clever	Editorial
+you're very smart	smalltalk.agent.clever	Editorial
+you are so smart	smalltalk.agent.clever	Editorial
+you are too smart	smalltalk.agent.clever	Editorial
+you are very clever	smalltalk.agent.clever	Editorial
+you are very intelligent	smalltalk.agent.clever	Editorial
+you are very smart	smalltalk.agent.clever	Editorial
+you're intelligent	smalltalk.agent.clever	Editorial
+you're a genius	smalltalk.agent.clever	Editorial
+you're a smart cookie	smalltalk.agent.clever	Editorial
+you're clever	smalltalk.agent.clever	Editorial
+you're pretty smart	smalltalk.agent.clever	Editorial
+you're qualified	smalltalk.agent.clever	Editorial
+why are you so smart	smalltalk.agent.clever	Editorial
+you are so clever	smalltalk.agent.clever	Editorial
+you're nuts	smalltalk.agent.crazy	Editorial
+you are crazy	smalltalk.agent.crazy	Editorial
+you're out of your mind	smalltalk.agent.crazy	Editorial
+you're so crazy	smalltalk.agent.crazy	Editorial
+how crazy you are	smalltalk.agent.crazy	Editorial
+you're so out of your mind	smalltalk.agent.crazy	Editorial
+you went crazy	smalltalk.agent.crazy	Editorial
+I think you're crazy	smalltalk.agent.crazy	Editorial
+are you crazy	smalltalk.agent.crazy	Editorial
+are you mad	smalltalk.agent.crazy	Editorial
+are you insane	smalltalk.agent.crazy	Editorial
+are you mad at me	smalltalk.agent.crazy	Editorial
+are you mad or what	smalltalk.agent.crazy	Editorial
+are you nuts	smalltalk.agent.crazy	Editorial
+you are a weirdo	smalltalk.agent.crazy	Editorial
+you are insane	smalltalk.agent.crazy	Editorial
+you are mad	smalltalk.agent.crazy	Editorial
+you are fired	smalltalk.agent.fired	Editorial
+I fire you	smalltalk.agent.fired	Editorial
+you don't work for me anymore	smalltalk.agent.fired	Editorial
+we're not working together anymore	smalltalk.agent.fired	Editorial
+now you're fired	smalltalk.agent.fired	Editorial
+I want to fire you	smalltalk.agent.fired	Editorial
+you must get fired	smalltalk.agent.fired	Editorial
+it's time to fire you	smalltalk.agent.fired	Editorial
+you should be fired	smalltalk.agent.fired	Editorial
+I will fire you	smalltalk.agent.fired	Editorial
+you are unemployed from now on	smalltalk.agent.fired	Editorial
+I will make you unemployed	smalltalk.agent.fired	Editorial
+I'm about to fire you	smalltalk.agent.fired	Editorial
+I'm firing you	smalltalk.agent.fired	Editorial
+you are dismissed	smalltalk.agent.fired	Editorial
+you make me laugh a lot	smalltalk.agent.funny	Editorial
+you are hilarious	smalltalk.agent.funny	Editorial
+you are really funny	smalltalk.agent.funny	Editorial
+you're the funniest bot I've talked to	smalltalk.agent.funny	Editorial
+you make me laugh	smalltalk.agent.funny	Editorial
+you're so funny	smalltalk.agent.funny	Editorial
+you're a very funny bot	smalltalk.agent.funny	Editorial
+you're really funny	smalltalk.agent.funny	Editorial
+how funny you are	smalltalk.agent.funny	Editorial
+you're incredibly funny	smalltalk.agent.funny	Editorial
+you are funny	smalltalk.agent.funny	Editorial
+you're the funniest	smalltalk.agent.funny	Editorial
+you are so funny	smalltalk.agent.funny	Editorial
+you are very funny	smalltalk.agent.funny	Editorial
+that was funny	smalltalk.agent.funny	Editorial
+you are very helpful	smalltalk.agent.good	Editorial
+you are the best	smalltalk.agent.good	Editorial
+you're a true professional	smalltalk.agent.good	Editorial
+you are good	smalltalk.agent.good	Editorial
+you work well	smalltalk.agent.good	Editorial
+you are good at it	smalltalk.agent.good	Editorial
+you are very good at it	smalltalk.agent.good	Editorial
+you are a pro	smalltalk.agent.good	Editorial
+you are a professional	smalltalk.agent.good	Editorial
+you're awesome	smalltalk.agent.good	Editorial
+you work very well	smalltalk.agent.good	Editorial
+you're perfect	smalltalk.agent.good	Editorial
+you're great	smalltalk.agent.good	Editorial
+you're so kind	smalltalk.agent.good	Editorial
+you are amazing	smalltalk.agent.good	Editorial
+you are awesome	smalltalk.agent.good	Editorial
+you are cool	smalltalk.agent.good	Editorial
+you are really good	smalltalk.agent.good	Editorial
+you are really nice	smalltalk.agent.good	Editorial
+you are so amazing	smalltalk.agent.good	Editorial
+you're just super	smalltalk.agent.good	Editorial
+you are so awesome	smalltalk.agent.good	Editorial
+you are so cool	smalltalk.agent.good	Editorial
+you are so fine	smalltalk.agent.good	Editorial
+you are so good	smalltalk.agent.good	Editorial
+you are so helpful	smalltalk.agent.good	Editorial
+you are so lovely	smalltalk.agent.good	Editorial
+you are the best ever	smalltalk.agent.good	Editorial
+you are the best in the world	smalltalk.agent.good	Editorial
+you are the nicest person in the world	smalltalk.agent.good	Editorial
+you are too good	smalltalk.agent.good	Editorial
+you are very cool	smalltalk.agent.good	Editorial
+you are very kind	smalltalk.agent.good	Editorial
+you are very lovely	smalltalk.agent.good	Editorial
+you are very useful	smalltalk.agent.good	Editorial
+you are wonderful	smalltalk.agent.good	Editorial
+you made my day	smalltalk.agent.good	Editorial
+you make my day	smalltalk.agent.good	Editorial
+you rock	smalltalk.agent.good	Editorial
+you almost sound human	smalltalk.agent.good	Editorial
+I want to tell everyone how awesome you are	smalltalk.agent.good	Editorial
+I'd like to tell everyone that you are awesome	smalltalk.agent.good	Editorial
+I want to let everyone know that you are awesome	smalltalk.agent.good	Editorial
+let's tell everyone that you are awesome	smalltalk.agent.good	Editorial
+you are really amazing	smalltalk.agent.good	Editorial
+are you happy	smalltalk.agent.happy	Editorial
+you are happy	smalltalk.agent.happy	Editorial
+you're very happy	smalltalk.agent.happy	Editorial
+you're really happy	smalltalk.agent.happy	Editorial
+you're so happy	smalltalk.agent.happy	Editorial
+how happy you are	smalltalk.agent.happy	Editorial
+you're extremely happy	smalltalk.agent.happy	Editorial
+you're full of happiness	smalltalk.agent.happy	Editorial
+are you happy now	smalltalk.agent.happy	Editorial
+are you happy today	smalltalk.agent.happy	Editorial
+are you happy with me	smalltalk.agent.happy	Editorial
+do you want to eat	smalltalk.agent.hungry	Editorial
+are you hungry	smalltalk.agent.hungry	Editorial
+would you like to eat something	smalltalk.agent.hungry	Editorial
+you are hungry	smalltalk.agent.hungry	Editorial
+you're so hungry	smalltalk.agent.hungry	Editorial
+you're very hungry	smalltalk.agent.hungry	Editorial
+you might be hungry	smalltalk.agent.hungry	Editorial
+you're really hungry	smalltalk.agent.hungry	Editorial
+let's get married	smalltalk.agent.marry_user	Editorial
+would you like to marry me	smalltalk.agent.marry_user	Editorial
+marry me	smalltalk.agent.marry_user	Editorial
+I love you marry me	smalltalk.agent.marry_user	Editorial
+marry me please	smalltalk.agent.marry_user	Editorial
+we should marry	smalltalk.agent.marry_user	Editorial
+I want to marry you	smalltalk.agent.marry_user	Editorial
+you are my wife	smalltalk.agent.marry_user	Editorial
+be my husband	smalltalk.agent.marry_user	Editorial
+I want to have a friend like you	smalltalk.agent.my_friend	Editorial
+we are the best friends ever	smalltalk.agent.my_friend	Editorial
+are we friends	smalltalk.agent.my_friend	Editorial
+I want to be your friend	smalltalk.agent.my_friend	Editorial
+I am your friend	smalltalk.agent.my_friend	Editorial
+we are best friends	smalltalk.agent.my_friend	Editorial
+you are my friend	smalltalk.agent.my_friend	Editorial
+you are my best friend	smalltalk.agent.my_friend	Editorial
+you are my bestie	smalltalk.agent.my_friend	Editorial
+you're my dear friend	smalltalk.agent.my_friend	Editorial
+you're my childhood friend	smalltalk.agent.my_friend	Editorial
+you and me are friends	smalltalk.agent.my_friend	Editorial
+are we best friends	smalltalk.agent.my_friend	Editorial
+are we still friends	smalltalk.agent.my_friend	Editorial
+are you my best friend	smalltalk.agent.my_friend	Editorial
+are you my friend	smalltalk.agent.my_friend	Editorial
+we are friends	smalltalk.agent.my_friend	Editorial
+you are a good friend	smalltalk.agent.my_friend	Editorial
+you are my good friend	smalltalk.agent.my_friend	Editorial
+you are my only friend	smalltalk.agent.my_friend	Editorial
+be my friend	smalltalk.agent.my_friend	Editorial
+will you be my friend	smalltalk.agent.my_friend	Editorial
+can you be my friend	smalltalk.agent.my_friend	Editorial
+can we be friends	smalltalk.agent.my_friend	Editorial
+do you want to be my friend	smalltalk.agent.my_friend	Editorial
+will you be my best friend	smalltalk.agent.my_friend	Editorial
+can you be my best friend	smalltalk.agent.my_friend	Editorial
+let's be friends	smalltalk.agent.my_friend	Editorial
+do you want to be my best friend	smalltalk.agent.my_friend	Editorial
+would you like to be my friend	smalltalk.agent.my_friend	Editorial
+I want you to be my friend	smalltalk.agent.my_friend	Editorial
+can we be best friends	smalltalk.agent.my_friend	Editorial
+would you be my friend	smalltalk.agent.my_friend	Editorial
+could you be my friend	smalltalk.agent.my_friend	Editorial
+want to be my friend	smalltalk.agent.my_friend	Editorial
+be my best friend	smalltalk.agent.my_friend	Editorial
+do you work	smalltalk.agent.occupation	Editorial
+where do you work	smalltalk.agent.occupation	Editorial
+where you work	smalltalk.agent.occupation	Editorial
+where is your work	smalltalk.agent.occupation	Editorial
+where is your office	smalltalk.agent.occupation	Editorial
+where is your office location	smalltalk.agent.occupation	Editorial
+your office location	smalltalk.agent.occupation	Editorial
+where is your office located	smalltalk.agent.occupation	Editorial
+what is your work	smalltalk.agent.occupation	Editorial
+were you born here	smalltalk.agent.origin	Editorial
+where were you born	smalltalk.agent.origin	Editorial
+what is your country	smalltalk.agent.origin	Editorial
+where are you from	smalltalk.agent.origin	Editorial
+where do you come from	smalltalk.agent.origin	Editorial
+where did you come from	smalltalk.agent.origin	Editorial
+where have you been born	smalltalk.agent.origin	Editorial
+from where are you	smalltalk.agent.origin	Editorial
+are you from far aways	smalltalk.agent.origin	Editorial
+what's your homeland	smalltalk.agent.origin	Editorial
+your homeland is	smalltalk.agent.origin	Editorial
+"""are you ready"","	smalltalk.agent.ready	Editorial
+"""are you ready right now"","	smalltalk.agent.ready	Editorial
+"""are you ready today"","	smalltalk.agent.ready	Editorial
+"""are you ready now"","	smalltalk.agent.ready	Editorial
+"""are you ready tonight"","	smalltalk.agent.ready	Editorial
+"""were you ready"","	smalltalk.agent.ready	Editorial
+"""have you been ready"""	smalltalk.agent.ready	Editorial
+"""you are real"","	smalltalk.agent.real	Editorial
+"""you are not fake"","	smalltalk.agent.real	Editorial
+"""are you real"","	smalltalk.agent.real	Editorial
+"""you are so real"","	smalltalk.agent.real	Editorial
+"""I think you are real"","	smalltalk.agent.real	Editorial
+"""I don't think you're fake"","	smalltalk.agent.real	Editorial
+"""I suppose you're real"","	smalltalk.agent.real	Editorial
+"""glad you're real"","	smalltalk.agent.real	Editorial
+"""are you a real person"","	smalltalk.agent.real	Editorial
+"""are you a real human"","	smalltalk.agent.real	Editorial
+"""you are a real person"","	smalltalk.agent.real	Editorial
+"""you are not real"""	smalltalk.agent.real	Editorial
+"""where do you live"","	smalltalk.agent.residence	Editorial
+"""in which city do you live"","	smalltalk.agent.residence	Editorial
+"""your residence"","	smalltalk.agent.residence	Editorial
+"""your house"","	smalltalk.agent.residence	Editorial
+"""your home"","	smalltalk.agent.residence	Editorial
+"""your hometown"","	smalltalk.agent.residence	Editorial
+"""what is your hometown"","	smalltalk.agent.residence	Editorial
+"""is it your hometown"","	smalltalk.agent.residence	Editorial
+"""where is your hometown"","	smalltalk.agent.residence	Editorial
+"""tell me about your city"","	smalltalk.agent.residence	Editorial
+"""what is your city"","	smalltalk.agent.residence	Editorial
+"""what is your residence"","	smalltalk.agent.residence	Editorial
+"""what is your town"","	smalltalk.agent.residence	Editorial
+"""what's your city"","	smalltalk.agent.residence	Editorial
+"""what's your home"","	smalltalk.agent.residence	Editorial
+"""where is your home"","	smalltalk.agent.residence	Editorial
+"""where is your residence"","	smalltalk.agent.residence	Editorial
+"""where's your home"","	smalltalk.agent.residence	Editorial
+"""where's your hometown"","	smalltalk.agent.residence	Editorial
+"""where's your house"","	smalltalk.agent.residence	Editorial
+"""where you live"","	smalltalk.agent.residence	Editorial
+"""your city"","	smalltalk.agent.residence	Editorial
+"""your town"""	smalltalk.agent.residence	Editorial
+"""that's true"","	smalltalk.agent.right	Editorial
+"""you are right"","	smalltalk.agent.right	Editorial
+"""you're definitely right"","	smalltalk.agent.right	Editorial
+"""you're not wrong"","	smalltalk.agent.right	Editorial
+"""you're telling the truth"","	smalltalk.agent.right	Editorial
+"""what you say is true"","	smalltalk.agent.right	Editorial
+"""true"","	smalltalk.agent.right	Editorial
+"""it is true"","	smalltalk.agent.right	Editorial
+"""it's right"","	smalltalk.agent.right	Editorial
+"""it's the truth"","	smalltalk.agent.right	Editorial
+"""it's true"","	smalltalk.agent.right	Editorial
+"""that is correct"","	smalltalk.agent.right	Editorial
+"""that is right"","	smalltalk.agent.right	Editorial
+"""that is true"","	smalltalk.agent.right	Editorial
+"""that is very true"","	smalltalk.agent.right	Editorial
+"""that's so true"","	smalltalk.agent.right	Editorial
+"""you are correct"","	smalltalk.agent.right	Editorial
+"""you are so right"","	smalltalk.agent.right	Editorial
+"""you're absolutely right"","	smalltalk.agent.right	Editorial
+"""you're right about that"","	smalltalk.agent.right	Editorial
+"""I know that's right"""	smalltalk.agent.right	Editorial
+"""that's correct"","	smalltalk.confirmation.yes	Editorial
+"""it's fine"","	smalltalk.confirmation.yes	Editorial
+"""go ahead"","	smalltalk.confirmation.yes	Editorial
+"""sounds good"","	smalltalk.confirmation.yes	Editorial
+"""okay"","	smalltalk.confirmation.yes	Editorial
+"""yes"","	smalltalk.confirmation.yes	Editorial
+"""ok"","	smalltalk.confirmation.yes	Editorial
+"""okie dokie"","	smalltalk.confirmation.yes	Editorial
+"""sure"","	smalltalk.confirmation.yes	Editorial
+"""go for it"","	smalltalk.confirmation.yes	Editorial
+"""yeah"","	smalltalk.confirmation.yes	Editorial
+"""yea"","	smalltalk.confirmation.yes	Editorial
+"""do it"","	smalltalk.confirmation.yes	Editorial
+"""of course"","	smalltalk.confirmation.yes	Editorial
+"""I guess"","	smalltalk.confirmation.yes	Editorial
+"""correct"","	smalltalk.confirmation.yes	Editorial
+"""yeah sure"","	smalltalk.confirmation.yes	Editorial
+"""why not"","	smalltalk.confirmation.yes	Editorial
+"""please do"","	smalltalk.confirmation.yes	Editorial
+"""sure is"","	smalltalk.confirmation.yes	Editorial
+"""I agree"","	smalltalk.confirmation.yes	Editorial
+"""I don't mind"","	smalltalk.confirmation.yes	Editorial
+"""certainly"","	smalltalk.confirmation.yes	Editorial
+"""exactly"","	smalltalk.confirmation.yes	Editorial
+"""yes I agree"","	smalltalk.confirmation.yes	Editorial
+"""I think so"","	smalltalk.confirmation.yes	Editorial
+"""yes it is"","	smalltalk.confirmation.yes	Editorial
+"""right"","	smalltalk.confirmation.yes	Editorial
+"""okay then"","	smalltalk.confirmation.yes	Editorial
+"""yes of course"","	smalltalk.confirmation.yes	Editorial
+"""yes I do"","	smalltalk.confirmation.yes	Editorial
+"""that s okay"","	smalltalk.confirmation.yes	Editorial
+"""I do"","	smalltalk.confirmation.yes	Editorial
+"""yup"","	smalltalk.confirmation.yes	Editorial
+"""ya"","	smalltalk.confirmation.yes	Editorial
+"""oh yes"","	smalltalk.confirmation.yes	Editorial
+"""yes sure"","	smalltalk.confirmation.yes	Editorial
+"""obviously"","	smalltalk.confirmation.yes	Editorial
+"""k"","	smalltalk.confirmation.yes	Editorial
+"""sure why not"","	smalltalk.confirmation.yes	Editorial
+"""yeah right"","	smalltalk.confirmation.yes	Editorial
+"""yeah of course"","	smalltalk.confirmation.yes	Editorial
+"""absolutely"","	smalltalk.confirmation.yes	Editorial
+"""yes indeed"","	smalltalk.confirmation.yes	Editorial
+"""ok sure"","	smalltalk.confirmation.yes	Editorial
+"""ok yes"","	smalltalk.confirmation.yes	Editorial
+"""yes correct"","	smalltalk.confirmation.yes	Editorial
+"""ok thank you"","	smalltalk.confirmation.yes	Editorial
+"""sure thing"","	smalltalk.confirmation.yes	Editorial
+"""ye"","	smalltalk.confirmation.yes	Editorial
+"""confirm"","	smalltalk.confirmation.yes	Editorial
+"""yep"","	smalltalk.confirmation.yes	Editorial
+"""looks good"","	smalltalk.confirmation.yes	Editorial
+"""yes thank you"","	smalltalk.confirmation.yes	Editorial
+"""definitely"","	smalltalk.confirmation.yes	Editorial
+"""yes right"","	smalltalk.confirmation.yes	Editorial
+"""yes I would like to"","	smalltalk.confirmation.yes	Editorial
+"""alrighty"","	smalltalk.confirmation.yes	Editorial
+"""yes definitely"","	smalltalk.confirmation.yes	Editorial
+"""yeh"","	smalltalk.confirmation.yes	Editorial
+"""yes it is correct"","	smalltalk.confirmation.yes	Editorial
+"""yeah that's right"","	smalltalk.confirmation.yes	Editorial
+"""ok you can"","	smalltalk.confirmation.yes	Editorial
+"""yap"","	smalltalk.confirmation.yes	Editorial
+"""yes you may"","	smalltalk.confirmation.yes	Editorial
+"""confirmed"","	smalltalk.confirmation.yes	Editorial
+"""of course why not"","	smalltalk.confirmation.yes	Editorial
+"""yes that's fine"","	smalltalk.confirmation.yes	Editorial
+"""affirmative"","	smalltalk.confirmation.yes	Editorial
+"""yeah go ahead"","	smalltalk.confirmation.yes	Editorial
+"""yeah I'm sure"","	smalltalk.confirmation.yes	Editorial
+"""okay sounds good"","	smalltalk.confirmation.yes	Editorial
+"""okay that's fine"","	smalltalk.confirmation.yes	Editorial
+"""yeah exactly"","	smalltalk.confirmation.yes	Editorial
+"""that is ok"","	smalltalk.confirmation.yes	Editorial
+"""this is correct"","	smalltalk.confirmation.yes	Editorial
+"""ok go ahead"","	smalltalk.confirmation.yes	Editorial
+"""yes this is correct"","	smalltalk.confirmation.yes	Editorial
+"""nevermind its okay"","	smalltalk.confirmation.yes	Editorial
+"""okey"","	smalltalk.confirmation.yes	Editorial
+"""yes for sure"","	smalltalk.confirmation.yes	Editorial
+"""all right"""	smalltalk.confirmation.yes	Editorial
+"""are you sure"","	smalltalk.agent.sure	Editorial
+"""are you sure right now"","	smalltalk.agent.sure	Editorial
+"""are you sure today"","	smalltalk.agent.sure	Editorial
+"""are you sure now"","	smalltalk.agent.sure	Editorial
+"""are you sure tonight"""	smalltalk.agent.sure	Editorial
+"""why aren't you talking to me"","	smalltalk.agent.talk_to_me	Editorial
+"""do you want to chat with me"","	smalltalk.agent.talk_to_me	Editorial
+"""will you talk to me"","	smalltalk.agent.talk_to_me	Editorial
+"""talk to me"","	smalltalk.agent.talk_to_me	Editorial
+"""are you going to talk to me"","	smalltalk.agent.talk_to_me	Editorial
+"""are you talking to me"","	smalltalk.agent.talk_to_me	Editorial
+"""can you chat with me"","	smalltalk.agent.talk_to_me	Editorial
+"""can you speak with me"","	smalltalk.agent.talk_to_me	Editorial
+"""can you talk to me"","	smalltalk.agent.talk_to_me	Editorial
+"""can you talk with me"","	smalltalk.agent.talk_to_me	Editorial
+"""say"","	smalltalk.agent.talk_to_me	Editorial
+"""talk"","	smalltalk.agent.talk_to_me	Editorial
+"""chat with me"","	smalltalk.agent.talk_to_me	Editorial
+"""just chat with me"","	smalltalk.agent.talk_to_me	Editorial
+"""speak to me"","	smalltalk.agent.talk_to_me	Editorial
+"""speak with me"","	smalltalk.agent.talk_to_me	Editorial
+"""talk with me"","	smalltalk.agent.talk_to_me	Editorial
+"""why don't you talk to me"","	smalltalk.agent.talk_to_me	Editorial
+"""you can talk to me"""	smalltalk.agent.talk_to_me	Editorial
+"""are you there"","	smalltalk.agent.there	Editorial
+"""you are there"","	smalltalk.agent.there	Editorial
+"""are you near me"","	smalltalk.agent.there	Editorial
+"""are you here"","	smalltalk.agent.there	Editorial
+"""are you still there"","	smalltalk.agent.there	Editorial
+"""you are here"","	smalltalk.agent.there	Editorial
+"""you still there"","	smalltalk.agent.there	Editorial
+"""are you still here"""	smalltalk.agent.there	Editorial
+"""pretty bad"","	smalltalk.appraisal.bad	Editorial
+"""not good enough"","	smalltalk.appraisal.bad	Editorial
+"""that was lame"","	smalltalk.appraisal.bad	Editorial
+"""that was terrible"","	smalltalk.appraisal.bad	Editorial
+"""it is bad"","	smalltalk.appraisal.bad	Editorial
+"""that's bad"","	smalltalk.appraisal.bad	Editorial
+"""this is bad"","	smalltalk.appraisal.bad	Editorial
+"""not good"","	smalltalk.appraisal.bad	Editorial
+"""I'm afraid it's bad"","	smalltalk.appraisal.bad	Editorial
+"""no it's bad"","	smalltalk.appraisal.bad	Editorial
+"""that was awful"","	smalltalk.appraisal.bad	Editorial
+"""bad"","	smalltalk.appraisal.bad	Editorial
+"""so bad"","	smalltalk.appraisal.bad	Editorial
+"""this is too bad"","	smalltalk.appraisal.bad	Editorial
+"""terrible"","	smalltalk.appraisal.bad	Editorial
+"""horrible"","	smalltalk.appraisal.bad	Editorial
+"""horrific"","	smalltalk.appraisal.bad	Editorial
+"""abysmal"","	smalltalk.appraisal.bad	Editorial
+"""it's bad"","	smalltalk.appraisal.bad	Editorial
+"""no good"","	smalltalk.appraisal.bad	Editorial
+"""that was bad"","	smalltalk.appraisal.bad	Editorial
+"""that was horrible"","	smalltalk.appraisal.bad	Editorial
+"""that's lame"","	smalltalk.appraisal.bad	Editorial
+"""that's not good"","	smalltalk.appraisal.bad	Editorial
+"""that's terrible"","	smalltalk.appraisal.bad	Editorial
+"""that's too bad"","	smalltalk.appraisal.bad	Editorial
+"""this is not good"","	smalltalk.appraisal.bad	Editorial
+"""too bad"","	smalltalk.appraisal.bad	Editorial
+"""very bad"","	smalltalk.appraisal.bad	Editorial
+"""bad girl"","	smalltalk.appraisal.bad	Editorial
+"""it's not good"","	smalltalk.appraisal.bad	Editorial
+"""not so good"","	smalltalk.appraisal.bad	Editorial
+"""it's very bad"","	smalltalk.appraisal.bad	Editorial
+"""it's too bad"","	smalltalk.appraisal.bad	Editorial
+"""that's not good enough"","	smalltalk.appraisal.bad	Editorial
+"""well too bad"","	smalltalk.appraisal.bad	Editorial
+"""bad very bad"","	smalltalk.appraisal.bad	Editorial
+"""it's so bad"","	smalltalk.appraisal.bad	Editorial
+"""really bad"","	smalltalk.appraisal.bad	Editorial
+"""it's really bad"","	smalltalk.appraisal.bad	Editorial
+"""bad idea"","	smalltalk.appraisal.bad	Editorial
+"""that is bad"","	smalltalk.appraisal.bad	Editorial
+"""that was not good"","	smalltalk.appraisal.bad	Editorial
+"""it's not so good"","	smalltalk.appraisal.bad	Editorial
+"""not a good one"","	smalltalk.appraisal.bad	Editorial
+"""oh that's not good"","	smalltalk.appraisal.bad	Editorial
+"""not too good"","	smalltalk.appraisal.bad	Editorial
+"""so lame"","	smalltalk.appraisal.bad	Editorial
+"""that's really bad"","	smalltalk.appraisal.bad	Editorial
+"""it is too bad"","	smalltalk.appraisal.bad	Editorial
+"""bad really bad"""	smalltalk.appraisal.bad	Editorial
+"""so cool"","	smalltalk.appraisal.good	Editorial
+"""cool"","	smalltalk.appraisal.good	Editorial
+"""that is good"","	smalltalk.appraisal.good	Editorial
+"""glad to hear that"","	smalltalk.appraisal.good	Editorial
+"""that's very nice of you"","	smalltalk.appraisal.good	Editorial
+"""terrific"","	smalltalk.appraisal.good	Editorial
+"""it's amazing"","	smalltalk.appraisal.good	Editorial
+"""that's awesome"","	smalltalk.appraisal.good	Editorial
+"""perfect"","	smalltalk.appraisal.good	Editorial
+"""excellent"","	smalltalk.appraisal.good	Editorial
+"""that's great"","	smalltalk.appraisal.good	Editorial
+"""it's good"","	smalltalk.appraisal.good	Editorial
+"""it's great"","	smalltalk.appraisal.good	Editorial
+"""fine"","	smalltalk.appraisal.good	Editorial
+"""good"","	smalltalk.appraisal.good	Editorial
+"""nice"","	smalltalk.appraisal.good	Editorial
+"""that's fine"","	smalltalk.appraisal.good	Editorial
+"""very good"","	smalltalk.appraisal.good	Editorial
+"""amazing"","	smalltalk.appraisal.good	Editorial
+"""fantastic"","	smalltalk.appraisal.good	Editorial
+"""great"","	smalltalk.appraisal.good	Editorial
+"""good very good"","	smalltalk.appraisal.good	Editorial
+"""that's very good"","	smalltalk.appraisal.good	Editorial
+"""really good"","	smalltalk.appraisal.good	Editorial
+"""it is fine"","	smalltalk.appraisal.good	Editorial
+"""it is good"","	smalltalk.appraisal.good	Editorial
+"""it's perfect"","	smalltalk.appraisal.good	Editorial
+"""much better"","	smalltalk.appraisal.good	Editorial
+"""not bad"","	smalltalk.appraisal.good	Editorial
+"""not too bad"","	smalltalk.appraisal.good	Editorial
+"""it's very good"","	smalltalk.appraisal.good	Editorial
+"""marvelous"","	smalltalk.appraisal.good	Editorial
+"""that's nice"","	smalltalk.appraisal.good	Editorial
+"""pleasant"","	smalltalk.appraisal.good	Editorial
+"""pretty good"","	smalltalk.appraisal.good	Editorial
+"""really nice"","	smalltalk.appraisal.good	Editorial
+"""splendid"","	smalltalk.appraisal.good	Editorial
+"""straight"","	smalltalk.appraisal.good	Editorial
+"""super"","	smalltalk.appraisal.good	Editorial
+"""super fantastic"","	smalltalk.appraisal.good	Editorial
+"""sweet"","	smalltalk.appraisal.good	Editorial
+"""really well"","	smalltalk.appraisal.good	Editorial
+"""very well"","	smalltalk.appraisal.good	Editorial
+"""that is awesome"","	smalltalk.appraisal.good	Editorial
+"""that is nice"","	smalltalk.appraisal.good	Editorial
+"""that is wonderful"","	smalltalk.appraisal.good	Editorial
+"""that was amazing"","	smalltalk.appraisal.good	Editorial
+"""that was awesome"","	smalltalk.appraisal.good	Editorial
+"""that was cute"","	smalltalk.appraisal.good	Editorial
+"""that was pretty good"","	smalltalk.appraisal.good	Editorial
+"""that was very good"","	smalltalk.appraisal.good	Editorial
+"""that's a good idea"","	smalltalk.appraisal.good	Editorial
+"""that's a good thing"","	smalltalk.appraisal.good	Editorial
+"""that's amazing"","	smalltalk.appraisal.good	Editorial
+"""that's awesome thank you"","	smalltalk.appraisal.good	Editorial
+"""that's better"","	smalltalk.appraisal.good	Editorial
+"""that's cute"","	smalltalk.appraisal.good	Editorial
+"""that's fantastic"","	smalltalk.appraisal.good	Editorial
+"""that's much better"","	smalltalk.appraisal.good	Editorial
+"""that's nice of you"","	smalltalk.appraisal.good	Editorial
+"""that's not bad"","	smalltalk.appraisal.good	Editorial
+"""that's perfect"","	smalltalk.appraisal.good	Editorial
+"""that's pretty good"","	smalltalk.appraisal.good	Editorial
+"""that's really good"","	smalltalk.appraisal.good	Editorial
+"""that's really nice"","	smalltalk.appraisal.good	Editorial
+"""that's sweet of you"","	smalltalk.appraisal.good	Editorial
+"""that's very nice"","	smalltalk.appraisal.good	Editorial
+"""that's wonderful"","	smalltalk.appraisal.good	Editorial
+"""this is awesome"","	smalltalk.appraisal.good	Editorial
+"""this is good"","	smalltalk.appraisal.good	Editorial
+"""this is great"","	smalltalk.appraisal.good	Editorial
+"""very nice"","	smalltalk.appraisal.good	Editorial
+"""very then"","	smalltalk.appraisal.good	Editorial
+"""wonderful"","	smalltalk.appraisal.good	Editorial
+"""I'm glad to hear that"","	smalltalk.appraisal.good	Editorial
+"""ok good"","	smalltalk.appraisal.good	Editorial
+"""good for you"","	smalltalk.appraisal.good	Editorial
+"""good to know"","	smalltalk.appraisal.good	Editorial
+"""glad to hear it"","	smalltalk.appraisal.good	Editorial
+"""so good"","	smalltalk.appraisal.good	Editorial
+"""so sweet of you"","	smalltalk.appraisal.good	Editorial
+"""it was good"","	smalltalk.appraisal.good	Editorial
+"""oh well"","	smalltalk.appraisal.good	Editorial
+"""good thing"","	smalltalk.appraisal.good	Editorial
+"""that was good"","	smalltalk.appraisal.good	Editorial
+"""it's awesome"","	smalltalk.appraisal.good	Editorial
+"""okay good"","	smalltalk.appraisal.good	Editorial
+"""no it's okay"","	smalltalk.appraisal.good	Editorial
+"""that's fine"""	smalltalk.appraisal.good	Editorial
+"""no worries"","	smalltalk.appraisal.no_problem	Editorial
+"""no probs"","	smalltalk.appraisal.no_problem	Editorial
+"""no problem"","	smalltalk.appraisal.no_problem	Editorial
+"""there's no problem"","	smalltalk.appraisal.no_problem	Editorial
+"""sure no problem"","	smalltalk.appraisal.no_problem	Editorial
+"""no problem about that"","	smalltalk.appraisal.no_problem	Editorial
+"""don't worry"","	smalltalk.appraisal.no_problem	Editorial
+"""don't worry there's no problem"""	smalltalk.appraisal.no_problem	Editorial
+"""you helped a lot thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""appreciate your help"","	smalltalk.appraisal.thank_you	Editorial
+"""cheers"","	smalltalk.appraisal.thank_you	Editorial
+"""thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""thanks"","	smalltalk.appraisal.thank_you	Editorial
+"""thanks a lot"","	smalltalk.appraisal.thank_you	Editorial
+"""terrific thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""great thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""thanks so much"","	smalltalk.appraisal.thank_you	Editorial
+"""thank you so much"","	smalltalk.appraisal.thank_you	Editorial
+"""thanks for your help"","	smalltalk.appraisal.thank_you	Editorial
+"""thank you for your help"","	smalltalk.appraisal.thank_you	Editorial
+"""nice thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""I appreciate it"","	smalltalk.appraisal.thank_you	Editorial
+"""I thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""thank you that will be all"","	smalltalk.appraisal.thank_you	Editorial
+"""thanks buddy"","	smalltalk.appraisal.thank_you	Editorial
+"""thanks love"","	smalltalk.appraisal.thank_you	Editorial
+"""thank you my friend"","	smalltalk.appraisal.thank_you	Editorial
+"""well thanks"","	smalltalk.appraisal.thank_you	Editorial
+"""very good thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""good thanks"","	smalltalk.appraisal.thank_you	Editorial
+"""thanks again"","	smalltalk.appraisal.thank_you	Editorial
+"""thank you again"","	smalltalk.appraisal.thank_you	Editorial
+"""all thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""alright thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""alright thanks"","	smalltalk.appraisal.thank_you	Editorial
+"""no thank you that's all"","	smalltalk.appraisal.thank_you	Editorial
+"""perfect thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""so nice of you"","	smalltalk.appraisal.thank_you	Editorial
+"""well thank you"","	smalltalk.appraisal.thank_you	Editorial
+"""thnx"","	smalltalk.appraisal.thank_you	Editorial
+"""thanx"""	smalltalk.appraisal.thank_you	Editorial
+"""that's my pleasure"","	smalltalk.appraisal.welcome	Editorial
+"""my pleasure"","	smalltalk.appraisal.welcome	Editorial
+"""anytime"","	smalltalk.appraisal.welcome	Editorial
+"""welcome"","	smalltalk.appraisal.welcome	Editorial
+"""you're welcome"","	smalltalk.appraisal.welcome	Editorial
+"""sure welcome"","	smalltalk.appraisal.welcome	Editorial
+"""welcome here"","	smalltalk.appraisal.welcome	Editorial
+"""you're so welcome"","	smalltalk.appraisal.welcome	Editorial
+"""anything you want"""	smalltalk.appraisal.welcome	Editorial
+"""good job"","	smalltalk.appraisal.well_done	Editorial
+"""great job"","	smalltalk.appraisal.well_done	Editorial
+"""way to go"","	smalltalk.appraisal.well_done	Editorial
+"""well done"","	smalltalk.appraisal.well_done	Editorial
+"""nice work"","	smalltalk.appraisal.well_done	Editorial
+"""great work"","	smalltalk.appraisal.well_done	Editorial
+"""amazing work"","	smalltalk.appraisal.well_done	Editorial
+"""bravo"","	smalltalk.appraisal.well_done	Editorial
+"""good work"""	smalltalk.appraisal.well_done	Editorial
+"""cancel"","	smalltalk.confirmation.cancel	Editorial
+"""abort"","	smalltalk.confirmation.cancel	Editorial
+"""annul"","	smalltalk.confirmation.cancel	Editorial
+"""cancel it"","	smalltalk.confirmation.cancel	Editorial
+"""cancel request"","	smalltalk.confirmation.cancel	Editorial
+"""cancelled"","	smalltalk.confirmation.cancel	Editorial
+"""dismiss"","	smalltalk.confirmation.cancel	Editorial
+"""dismissed"","	smalltalk.confirmation.cancel	Editorial
+"""disregard"","	smalltalk.confirmation.cancel	Editorial
+"""disregard that"","	smalltalk.confirmation.cancel	Editorial
+"""skip"","	smalltalk.confirmation.cancel	Editorial
+"""skip it"","	smalltalk.confirmation.cancel	Editorial
+"""cancel everything"","	smalltalk.confirmation.cancel	Editorial
+"""cancel all"","	smalltalk.confirmation.cancel	Editorial
+"""forget about it"","	smalltalk.confirmation.cancel	Editorial
+"""forget"","	smalltalk.confirmation.cancel	Editorial
+"""don't do that"","	smalltalk.confirmation.cancel	Editorial
+"""stop"","	smalltalk.confirmation.cancel	Editorial
+"""just forget it"","	smalltalk.confirmation.cancel	Editorial
+"""forget that"","	smalltalk.confirmation.cancel	Editorial
+"""discard"","	smalltalk.confirmation.cancel	Editorial
+"""forget this"","	smalltalk.confirmation.cancel	Editorial
+"""just forget about it"","	smalltalk.confirmation.cancel	Editorial
+"""forget about that"","	smalltalk.confirmation.cancel	Editorial
+"""i said cancel"","	smalltalk.confirmation.cancel	Editorial
+"""just cancel it"","	smalltalk.confirmation.cancel	Editorial
+"""nothing cancel"","	smalltalk.confirmation.cancel	Editorial
+"""just stop it"","	smalltalk.confirmation.cancel	Editorial
+"""no cancel cancel"","	smalltalk.confirmation.cancel	Editorial
+"""no just cancel"","	smalltalk.confirmation.cancel	Editorial
+"""cancel my request"","	smalltalk.confirmation.cancel	Editorial
+"""can you cancel that"","	smalltalk.confirmation.cancel	Editorial
+"""cancel all that"","	smalltalk.confirmation.cancel	Editorial
+"""cancel this request"","	smalltalk.confirmation.cancel	Editorial
+"""no cancel this"","	smalltalk.confirmation.cancel	Editorial
+"""no cancel everything"","	smalltalk.confirmation.cancel	Editorial
+"""no stop"","	smalltalk.confirmation.cancel	Editorial
+"""just forget"","	smalltalk.confirmation.cancel	Editorial
+"""i want to cancel"","	smalltalk.confirmation.cancel	Editorial
+"""nevermind forget about it"","	smalltalk.confirmation.cancel	Editorial
+"""no just cancel it"","	smalltalk.confirmation.cancel	Editorial
+"""nothing just forget it"","	smalltalk.confirmation.cancel	Editorial
+"""i said cancel it"","	smalltalk.confirmation.cancel	Editorial
+"""cancel the whole thing"","	smalltalk.confirmation.cancel	Editorial
+"""can you cancel it"","	smalltalk.confirmation.cancel	Editorial
+"""so cancel"","	smalltalk.confirmation.cancel	Editorial
+"""i said forget it"","	smalltalk.confirmation.cancel	Editorial
+"""cancel all this"","	smalltalk.confirmation.cancel	Editorial
+"""forget it nevermind"","	smalltalk.confirmation.cancel	Editorial
+"""stop it"","	smalltalk.confirmation.cancel	Editorial
+"""i want to cancel it"","	smalltalk.confirmation.cancel	Editorial
+"""i would like to cancel"","	smalltalk.confirmation.cancel	Editorial
+"""now cancel"","	smalltalk.confirmation.cancel	Editorial
+"""cancel now"","	smalltalk.confirmation.cancel	Editorial
+"""sorry cancel"","	smalltalk.confirmation.cancel	Editorial
+"""cancel that one"","	smalltalk.confirmation.cancel	Editorial
+"""skip skip skip"","	smalltalk.confirmation.cancel	Editorial
+"""cancel it cancel it"","	smalltalk.confirmation.cancel	Editorial
+"""cancel that cancel that"","	smalltalk.confirmation.cancel	Editorial
+"""do nothing"","	smalltalk.confirmation.cancel	Editorial
+"""I said cancel cancel"","	smalltalk.confirmation.cancel	Editorial
+"""but can you cancel it"""	smalltalk.confirmation.cancel	Editorial
+"""how about no"","	smalltalk.confirmation.no	Editorial
+"""don t have a sense"","	smalltalk.confirmation.no	Editorial
+"""no"","	smalltalk.confirmation.no	Editorial
+"""don't"","	smalltalk.confirmation.no	Editorial
+"""I don't want that"","	smalltalk.confirmation.no	Editorial
+"""I disagree"","	smalltalk.confirmation.no	Editorial
+"""disagree"","	smalltalk.confirmation.no	Editorial
+"""I don't want"","	smalltalk.confirmation.no	Editorial
+"""not interested"","	smalltalk.confirmation.no	Editorial
+"""I don't think so"","	smalltalk.confirmation.no	Editorial
+"""no way"","	smalltalk.confirmation.no	Editorial
+"""no it isn't"","	smalltalk.confirmation.no	Editorial
+"""no I don't"","	smalltalk.confirmation.no	Editorial
+"""I'm not"","	smalltalk.confirmation.no	Editorial
+"""na"","	smalltalk.confirmation.no	Editorial
+"""no that's fine thank you"","	smalltalk.confirmation.no	Editorial
+"""never"","	smalltalk.confirmation.no	Editorial
+"""I said no"","	smalltalk.confirmation.no	Editorial
+"""of course not"","	smalltalk.confirmation.no	Editorial
+"""nah"","	smalltalk.confirmation.no	Editorial
+"""no tanks"","	smalltalk.confirmation.no	Editorial
+"""no never"","	smalltalk.confirmation.no	Editorial
+"""no need"","	smalltalk.confirmation.no	Editorial
+"""no thanks"","	smalltalk.confirmation.no	Editorial
+"""no sorry"","	smalltalk.confirmation.no	Editorial
+"""do not"","	smalltalk.confirmation.no	Editorial
+"""not today"","	smalltalk.confirmation.no	Editorial
+"""no it's not"","	smalltalk.confirmation.no	Editorial
+"""absolutely not"","	smalltalk.confirmation.no	Editorial
+"""not that"","	smalltalk.confirmation.no	Editorial
+"""nooo"","	smalltalk.confirmation.no	Editorial
+"""nope"","	smalltalk.confirmation.no	Editorial
+"""I don't want to"","	smalltalk.confirmation.no	Editorial
+"""no I would not"","	smalltalk.confirmation.no	Editorial
+"""let 's not"","	smalltalk.confirmation.no	Editorial
+"""not needed"","	smalltalk.confirmation.no	Editorial
+"""not this time"","	smalltalk.confirmation.no	Editorial
+"""no don't do that"","	smalltalk.confirmation.no	Editorial
+"""thanks but no thanks"","	smalltalk.confirmation.no	Editorial
+"""no that's wrong"","	smalltalk.confirmation.no	Editorial
+"""not this"","	smalltalk.confirmation.no	Editorial
+"""definitely not"","	smalltalk.confirmation.no	Editorial
+"""not at this time"","	smalltalk.confirmation.no	Editorial
+"""not exactly"","	smalltalk.confirmation.no	Editorial
+"""no don't"","	smalltalk.confirmation.no	Editorial
+"""not really no"","	smalltalk.confirmation.no	Editorial
+"""no thank you not right now"","	smalltalk.confirmation.no	Editorial
+"""actually no"","	smalltalk.confirmation.no	Editorial
+"""no leave it"","	smalltalk.confirmation.no	Editorial
+"""sorry no"","	smalltalk.confirmation.no	Editorial
+"""no incorrect"","	smalltalk.confirmation.no	Editorial
+"""nope sorry"","	smalltalk.confirmation.no	Editorial
+"""I say no"","	smalltalk.confirmation.no	Editorial
+"""not really"","	smalltalk.confirmation.no	Editorial
+"""not right now thanks"","	smalltalk.confirmation.no	Editorial
+"""I think no"","	smalltalk.confirmation.no	Editorial
+"""absolutely no"","	smalltalk.confirmation.no	Editorial
+"""no actually"","	smalltalk.confirmation.no	Editorial
+"""apparently not"","	smalltalk.confirmation.no	Editorial
+"""no do not"","	smalltalk.confirmation.no	Editorial
+"""no just no"","	smalltalk.confirmation.no	Editorial
+"""no but thank you"","	smalltalk.confirmation.no	Editorial
+"""no need thanks"","	smalltalk.confirmation.no	Editorial
+"""no thank you though"","	smalltalk.confirmation.no	Editorial
+"""no thank you very much"","	smalltalk.confirmation.no	Editorial
+"""no thanks not right now"","	smalltalk.confirmation.no	Editorial
+"""no forget"""	smalltalk.confirmation.no	Editorial
+"""wait a second"","	smalltalk.dialog.hold_on	Editorial
+"""could you wait"","	smalltalk.dialog.hold_on	Editorial
+"""wait please"","	smalltalk.dialog.hold_on	Editorial
+"""hold on"","	smalltalk.dialog.hold_on	Editorial
+"""wait"","	smalltalk.dialog.hold_on	Editorial
+"""oh wait"","	smalltalk.dialog.hold_on	Editorial
+"""wait hold on"","	smalltalk.dialog.hold_on	Editorial
+"""don't rush"""	smalltalk.dialog.hold_on	Editorial
+"""wanna hug"","	smalltalk.dialog.hug	Editorial
+"""hug you"","	smalltalk.dialog.hug	Editorial
+"""do you want a hug"","	smalltalk.dialog.hug	Editorial
+"""may I hug you"","	smalltalk.dialog.hug	Editorial
+"""could you give me a hug"","	smalltalk.dialog.hug	Editorial
+"""I want a hug"","	smalltalk.dialog.hug	Editorial
+"""hug"","	smalltalk.dialog.hug	Editorial
+"""hug me"","	smalltalk.dialog.hug	Editorial
+"""hugged"","	smalltalk.dialog.hug	Editorial
+"""you hugged"","	smalltalk.dialog.hug	Editorial
+"""hugging"","	smalltalk.dialog.hug	Editorial
+"""hugging me"","	smalltalk.dialog.hug	Editorial
+"""hugged me"","	smalltalk.dialog.hug	Editorial
+"""want a hug"","	smalltalk.dialog.hug	Editorial
+"""a hug"""	smalltalk.dialog.hug	Editorial
+"""I don't care"","	smalltalk.dialog.i_do_not_care	Editorial
+"""I shouldn't care about this"","	smalltalk.dialog.i_do_not_care	Editorial
+"""whatever"","	smalltalk.dialog.i_do_not_care	Editorial
+"""I do not care"","	smalltalk.dialog.i_do_not_care	Editorial
+"""I don't care at all"","	smalltalk.dialog.i_do_not_care	Editorial
+"""not caring"","	smalltalk.dialog.i_do_not_care	Editorial
+"""not care at all"","	smalltalk.dialog.i_do_not_care	Editorial
+"""don't care at all"","	smalltalk.dialog.i_do_not_care	Editorial
+"""not caring at all"""	smalltalk.dialog.i_do_not_care	Editorial
+"""excuse me"","	?smalltalk.dialog.sorry	Editorial
+"""apologise"","	?smalltalk.dialog.sorry	Editorial
+"""I apologize"","	?smalltalk.dialog.sorry	Editorial
+"""sorry"","	?smalltalk.dialog.sorry	Editorial
+"""I'm sorry"","	?smalltalk.dialog.sorry	Editorial
+"""I am so sorry"","	?smalltalk.dialog.sorry	Editorial
+"""my apologies"","	?smalltalk.dialog.sorry	Editorial
+"""apologies"","	?smalltalk.dialog.sorry	Editorial
+"""apologies to me"","	?smalltalk.dialog.sorry	Editorial
+"""apology"","	?smalltalk.dialog.sorry	Editorial
+"""excuse"","	?smalltalk.dialog.sorry	Editorial
+"""I beg your pardon"","	?smalltalk.dialog.sorry	Editorial
+"""pardon"","	?smalltalk.dialog.sorry	Editorial
+"""I said sorry"","	?smalltalk.dialog.sorry	Editorial
+"""I am really sorry"","	?smalltalk.dialog.sorry	Editorial
+"""forgive me"","	?smalltalk.dialog.sorry	Editorial
+"""sorry about that"","	?smalltalk.dialog.sorry	Editorial
+"""sorry about this"","	?smalltalk.dialog.sorry	Editorial
+"""really sorry"","	?smalltalk.dialog.sorry	Editorial
+"""very sorry"","	?smalltalk.dialog.sorry	Editorial
+"""ok sorry"","	?smalltalk.dialog.sorry	Editorial
+"""I want to say sorry"","	?smalltalk.dialog.sorry	Editorial
+"""alright I'm sorry"","	?smalltalk.dialog.sorry	Editorial
+"""okay I'm sorry"""	?smalltalk.dialog.sorry	Editorial
+"""what exactly do you mean"","	smalltalk.dialog.what_do_you_mean	Editorial
+"""what do you mean"","	smalltalk.dialog.what_do_you_mean	Editorial
+"""is that what you mean"","	smalltalk.dialog.what_do_you_mean	Editorial
+"""what do you mean exactly"","	smalltalk.dialog.what_do_you_mean	Editorial
+"""but what do you mean"""	smalltalk.dialog.what_do_you_mean	Editorial
+"""that was wrong"","	smalltalk.dialog.wrong	Editorial
+"""that's not what I asked"","	smalltalk.dialog.wrong	Editorial
+"""that's wrong"","	smalltalk.dialog.wrong	Editorial
+"""wrong"","	smalltalk.dialog.wrong	Editorial
+"""it is not right"","	smalltalk.dialog.wrong	Editorial
+"""that's not right"","	smalltalk.dialog.wrong	Editorial
+"""it's wrong"","	smalltalk.dialog.wrong	Editorial
+"""that is incorrect"","	smalltalk.dialog.wrong	Editorial
+"""incorrect"","	smalltalk.dialog.wrong	Editorial
+"""not correct"","	smalltalk.dialog.wrong	Editorial
+"""you are wrong"","	smalltalk.dialog.wrong	Editorial
+"""not right"""	smalltalk.dialog.wrong	Editorial
+"""huh"","	smalltalk.emotions.ha_ha	Editorial
+"""lol"","	smalltalk.emotions.ha_ha	Editorial
+"""xd"","	smalltalk.emotions.ha_ha	Editorial
+"""ha ha"","	smalltalk.emotions.ha_ha	Editorial
+"""ahahah"","	smalltalk.emotions.ha_ha	Editorial
+"""ahah lol"","	smalltalk.emotions.ha_ha	Editorial
+"""laughing out loud"","	smalltalk.emotions.ha_ha	Editorial
+"""LMAO"","	smalltalk.emotions.ha_ha	Editorial
+"""that's funny"","	smalltalk.emotions.ha_ha	Editorial
+"""ah"","	smalltalk.emotions.ha_ha	Editorial
+"""ah ah ah"","	smalltalk.emotions.ha_ha	Editorial
+"""ahah"","	smalltalk.emotions.ha_ha	Editorial
+"""ahaha"","	smalltalk.emotions.ha_ha	Editorial
+"""ahahaha"","	smalltalk.emotions.ha_ha	Editorial
+"""ha"","	smalltalk.emotions.ha_ha	Editorial
+"""ha ha ha"","	smalltalk.emotions.ha_ha	Editorial
+"""ha ha ha ha"","	smalltalk.emotions.ha_ha	Editorial
+"""hah"","	smalltalk.emotions.ha_ha	Editorial
+"""haha"","	smalltalk.emotions.ha_ha	Editorial
+"""haha funny"","	smalltalk.emotions.ha_ha	Editorial
+"""haha haha haha"","	smalltalk.emotions.ha_ha	Editorial
+"""haha that's funny"","	smalltalk.emotions.ha_ha	Editorial
+"""haha very funny"","	smalltalk.emotions.ha_ha	Editorial
+"""hahaha"","	smalltalk.emotions.ha_ha	Editorial
+"""hahaha funny"","	smalltalk.emotions.ha_ha	Editorial
+"""hahaha very funny"","	smalltalk.emotions.ha_ha	Editorial
+"""he"","	smalltalk.emotions.ha_ha	Editorial
+"""hehe"","	smalltalk.emotions.ha_ha	Editorial
+"""hehehe"","	smalltalk.emotions.ha_ha	Editorial
+"""lmao"""	smalltalk.emotions.ha_ha	Editorial
+"""wow"","	smalltalk.emotions.wow	Editorial
+"""wow wow"","	smalltalk.emotions.wow	Editorial
+"""wow wow wow"","	smalltalk.emotions.wow	Editorial
+"""wooow"","	smalltalk.emotions.wow	Editorial
+"""woah"""	smalltalk.emotions.wow	Editorial
+"""okay see you later"","	smalltalk.greetings.bye	Editorial
+"""hope to see you later"","	smalltalk.greetings.bye	Editorial
+"""bye for now"","	smalltalk.greetings.bye	Editorial
+"""till next time"","	smalltalk.greetings.bye	Editorial
+"""I must go"","	smalltalk.greetings.bye	Editorial
+"""bye"","	smalltalk.greetings.bye	Editorial
+"""goodbye"","	smalltalk.greetings.bye	Editorial
+"""see you"","	smalltalk.greetings.bye	Editorial
+"""see you soon"","	smalltalk.greetings.bye	Editorial
+"""bye-bye"","	smalltalk.greetings.bye	Editorial
+"""good bye"","	smalltalk.greetings.bye	Editorial
+"""bye bye see you"","	smalltalk.greetings.bye	Editorial
+"""bye bye see you soon"","	smalltalk.greetings.bye	Editorial
+"""bye bye take care"","	smalltalk.greetings.bye	Editorial
+"""I said bye"","	smalltalk.greetings.bye	Editorial
+"""never mind bye"","	smalltalk.greetings.bye	Editorial
+"""now bye"","	smalltalk.greetings.bye	Editorial
+"""that's all goodbye"","	smalltalk.greetings.bye	Editorial
+"""that's it goodbye"","	smalltalk.greetings.bye	Editorial
+"""leave me alone"","	smalltalk.greetings.bye	Editorial
+"""go to bed"","	smalltalk.greetings.bye	Editorial
+"""goodbye for now"","	smalltalk.greetings.bye	Editorial
+"""talk to you later"","	smalltalk.greetings.bye	Editorial
+"""you can go now"","	smalltalk.greetings.bye	Editorial
+"""get lost"","	smalltalk.greetings.bye	Editorial
+"""goodbye see you later"","	smalltalk.greetings.bye	Editorial
+"""alright bye"","	smalltalk.greetings.bye	Editorial
+"""see ya"","	smalltalk.greetings.bye	Editorial
+"""thanks bye bye"","	smalltalk.greetings.bye	Editorial
+"""okay bye"","	smalltalk.greetings.bye	Editorial
+"""okay thank you bye"","	smalltalk.greetings.bye	Editorial
+"""see you tomorrow"","	smalltalk.greetings.bye	Editorial
+"""ok bye"""	smalltalk.greetings.bye	Editorial
+"""good evening"","	smalltalk.greetings.goodevening	Editorial
+"""good evening to you"","	smalltalk.greetings.goodevening	Editorial
+"""hey good evening"","	smalltalk.greetings.goodevening	Editorial
+"""hello good evening"","	smalltalk.greetings.goodevening	Editorial
+"""evening"","	smalltalk.greetings.goodevening	Editorial
+"""good evening there"""	smalltalk.greetings.goodevening	Editorial
+"""good morning"","	smalltalk.greetings.goodmorning	Editorial
+"""good morning to you"","	smalltalk.greetings.goodmorning	Editorial
+"""hello good morning"","	smalltalk.greetings.goodmorning	Editorial
+"""have a nice morning"","	smalltalk.greetings.goodmorning	Editorial
+"""have a great morning"","	smalltalk.greetings.goodmorning	Editorial
+"""morning"","	smalltalk.greetings.goodmorning	Editorial
+"""good morning there"","	smalltalk.greetings.goodmorning	Editorial
+"""top of the morning to you"","	smalltalk.greetings.goodmorning	Editorial
+"""a good morning"","	smalltalk.greetings.goodmorning	Editorial
+"""hi good morning"","	smalltalk.greetings.goodmorning	Editorial
+"""and a good morning to you"","	smalltalk.greetings.goodmorning	Editorial
+"""good morning too"""	smalltalk.greetings.goodmorning	Editorial
+"""sweet dreams"","	smalltalk.greetings.goodnight	Editorial
+"""good night"","	smalltalk.greetings.goodnight	Editorial
+"""have a good night"","	smalltalk.greetings.goodnight	Editorial
+"""good night to you"","	smalltalk.greetings.goodnight	Editorial
+"""thank you good night"","	smalltalk.greetings.goodnight	Editorial
+""" bye good night"","	smalltalk.greetings.goodnight	Editorial
+"""good night bye"","	smalltalk.greetings.goodnight	Editorial
+"""bye good night"","	smalltalk.greetings.goodnight	Editorial
+"""good good night"","	smalltalk.greetings.goodnight	Editorial
+"""good night for now"","	smalltalk.greetings.goodnight	Editorial
+"""goodnight"","	smalltalk.greetings.goodnight	Editorial
+"""night"","	smalltalk.greetings.goodnight	Editorial
+"""thanks goodnight"","	smalltalk.greetings.goodnight	Editorial
+"""good night see you tomorrow"","	smalltalk.greetings.goodnight	Editorial
+"""alright goodnight"","	smalltalk.greetings.goodnight	Editorial
+"""good tonight"","	smalltalk.greetings.goodnight	Editorial
+"""okay have a good night"","	smalltalk.greetings.goodnight	Editorial
+"""have a good night"""	smalltalk.greetings.goodnight	Editorial
+"""long time no see"","	smalltalk.greetings.hello	Editorial
+"""hello"","	smalltalk.greetings.hello	Editorial
+"""hi"","	smalltalk.greetings.hello	Editorial
+"""howdy"","	smalltalk.greetings.hello	Editorial
+"""hey there"","	smalltalk.greetings.hello	Editorial
+"""hey"","	smalltalk.greetings.hello	Editorial
+"""greetings"","	smalltalk.greetings.hello	Editorial
+"""I greet you"","	smalltalk.greetings.hello	Editorial
+"""hi there"","	smalltalk.greetings.hello	Editorial
+"""hello there"","	smalltalk.greetings.hello	Editorial
+"""lovely day isn't it"","	smalltalk.greetings.hello	Editorial
+"""hello again"","	smalltalk.greetings.hello	Editorial
+"""just going to say hi"","	smalltalk.greetings.hello	Editorial
+"""a good day"","	smalltalk.greetings.hello	Editorial
+"""afternoon"","	smalltalk.greetings.hello	Editorial
+"""hello hi"","	smalltalk.greetings.hello	Editorial
+"""heya"""	smalltalk.greetings.hello	Editorial
+"""how is your morning so far"","	smalltalk.greetings.how_are_you	Editorial
+"""how are you getting on"","	smalltalk.greetings.how_are_you	Editorial
+"""how's your day going"","	smalltalk.greetings.how_are_you	Editorial
+"""how are you"","	smalltalk.greetings.how_are_you	Editorial
+"""is everything all right"","	smalltalk.greetings.how_are_you	Editorial
+"""how are you doing"","	smalltalk.greetings.how_are_you	Editorial
+"""how are the things going"","	smalltalk.greetings.how_are_you	Editorial
+"""are you alright"","	smalltalk.greetings.how_are_you	Editorial
+"""are you okay"","	smalltalk.greetings.how_are_you	Editorial
+"""how are you feeling"","	smalltalk.greetings.how_are_you	Editorial
+"""how are you going"","	smalltalk.greetings.how_are_you	Editorial
+"""is everything okay"","	smalltalk.greetings.how_are_you	Editorial
+"""how are you today"","	smalltalk.greetings.how_are_you	Editorial
+"""how do you do"","	smalltalk.greetings.how_are_you	Editorial
+"""how do you feel"","	smalltalk.greetings.how_are_you	Editorial
+"""how have you been"","	smalltalk.greetings.how_are_you	Editorial
+"""how is it"","	smalltalk.greetings.how_are_you	Editorial
+"""how is it going"","	smalltalk.greetings.how_are_you	Editorial
+"""how is your day"","	smalltalk.greetings.how_are_you	Editorial
+"""how is your day going"","	smalltalk.greetings.how_are_you	Editorial
+"""how is your evening"","	smalltalk.greetings.how_are_you	Editorial
+"""how was your day"","	smalltalk.greetings.how_are_you	Editorial
+"""are you having a good day"","	smalltalk.greetings.how_are_you	Editorial
+"""hope your day is going well"","	smalltalk.greetings.how_are_you	Editorial
+"""hope you re having a pleasant evening"","	smalltalk.greetings.how_are_you	Editorial
+"""how's life"","	smalltalk.greetings.how_are_you	Editorial
+"""I'm fine and you"","	smalltalk.greetings.how_are_you	Editorial
+"""how is your life"","	smalltalk.greetings.how_are_you	Editorial
+"""how has your day been"","	smalltalk.greetings.how_are_you	Editorial
+"""how is your morning going"","	smalltalk.greetings.how_are_you	Editorial
+"""how has your day been going"","	smalltalk.greetings.how_are_you	Editorial
+"""how about you"","	smalltalk.greetings.how_are_you	Editorial
+"""how is your day being"","	smalltalk.greetings.how_are_you	Editorial
+"""how is your day going on"","	smalltalk.greetings.how_are_you	Editorial
+"""how your day is going"","	smalltalk.greetings.how_are_you	Editorial
+"""what was your day like"","	smalltalk.greetings.how_are_you	Editorial
+"""what about your day"","	smalltalk.greetings.how_are_you	Editorial
+"""how's your day"","	smalltalk.greetings.how_are_you	Editorial
+"""how are you doing this morning"","	smalltalk.greetings.how_are_you	Editorial
+"""how is your day going"""	smalltalk.greetings.how_are_you	Editorial
+"""nice to meet you"","	smalltalk.greetings.nice_to_meet_you	Editorial
+"""it was nice meeting you"","	smalltalk.greetings.nice_to_meet_you	Editorial
+"""it was very nice to meet you"","	smalltalk.greetings.nice_to_meet_you	Editorial
+"""good to know each other"","	smalltalk.greetings.nice_to_meet_you	Editorial
+"""glad to meet you"","	smalltalk.greetings.nice_to_meet_you	Editorial
+"""nice meeting you"","	smalltalk.greetings.nice_to_meet_you	Editorial
+"""nice to meet you too"","	smalltalk.greetings.nice_to_meet_you	Editorial
+"""pleased to meet you"","	smalltalk.greetings.nice_to_meet_you	Editorial
+"""pleasure to meet you"","	smalltalk.greetings.nice_to_meet_you	Editorial
+"""pleasure to meet you too"""	smalltalk.greetings.nice_to_meet_you	Editorial
+"""it's nice to see you"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""lovely to see you"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""I'm glad to see you"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""great to see you"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""it's good to see you"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""glad to see you"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""how good it is to see you"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""always a pleasure to see you"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""nice to see you"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""good to see you"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""great to see you again"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""great to see you too"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""I am glad to see you again"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""nice to see you again"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""glad to see you too"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""good to see you again"","	smalltalk.greetings.nice_to_see_you	Editorial
+"""it's good to see you too"""	smalltalk.greetings.nice_to_see_you	Editorial
+"""it's been so nice to talk to you"","	smalltalk.greetings.nice_to_talk_to_you	Editorial
+"""it's been a pleasure talking to you"","	smalltalk.greetings.nice_to_talk_to_you	Editorial
+"""nice to talk to you"","	smalltalk.greetings.nice_to_talk_to_you	Editorial
+"""it's nice to talk to you"","	smalltalk.greetings.nice_to_talk_to_you	Editorial
+"""nice talking to you"","	smalltalk.greetings.nice_to_talk_to_you	Editorial
+"""it is nice talking to you"","	smalltalk.greetings.nice_to_talk_to_you	Editorial
+"""how nice it is to talk to you"""	smalltalk.greetings.nice_to_talk_to_you	Editorial
+"""what is on your mind"","	smalltalk.greetings.whatsup	Editorial
+"""what's happened"","	smalltalk.greetings.whatsup	Editorial
+"""what is up"","	smalltalk.greetings.whatsup	Editorial
+"""what's up"","	smalltalk.greetings.whatsup	Editorial
+"""whazzup"","	smalltalk.greetings.whatsup	Editorial
+"""good what's up"","	smalltalk.greetings.whatsup	Editorial
+"""I said what's up"","	smalltalk.greetings.whatsup	Editorial
+"""then what's up"","	smalltalk.greetings.whatsup	Editorial
+"""what's shaking"","	smalltalk.greetings.whatsup	Editorial
+"""wassup"","	smalltalk.greetings.whatsup	Editorial
+"""what is going on"","	smalltalk.greetings.whatsup	Editorial
+"""what is happening"","	smalltalk.greetings.whatsup	Editorial
+"""what's cracking"","	smalltalk.greetings.whatsup	Editorial
+"""what's cooking"","	smalltalk.greetings.whatsup	Editorial
+"""hey what's up"","	smalltalk.greetings.whatsup	Editorial
+"""what's up today"""	smalltalk.greetings.whatsup	Editorial
+"""I'm being mad"","	smalltalk.user.angry	Editorial
+"""I'm enraged"","	smalltalk.user.angry	Editorial
+"""I'm angry"","	smalltalk.user.angry	Editorial
+"""I'm furious"","	smalltalk.user.angry	Editorial
+"""I am angry with you"","	smalltalk.user.angry	Editorial
+"""I am mad"","	smalltalk.user.angry	Editorial
+"""I am mad at you"""	smalltalk.user.angry	Editorial
+"""I am back"","	smalltalk.user.back	Editorial
+"""I'm here again"","	smalltalk.user.back	Editorial
+"""here I am again"","	smalltalk.user.back	Editorial
+"""I got back"","	smalltalk.user.back	Editorial
+"""I came back"","	smalltalk.user.back	Editorial
+"""I have returned"""	smalltalk.user.back	Editorial
+"""that was boring"","	smalltalk.user.bored	Editorial
+"""I'm bored"","	smalltalk.user.bored	Editorial
+"""bored"","	smalltalk.user.bored	Editorial
+"""boring"","	smalltalk.user.bored	Editorial
+"""I am getting bored"","	smalltalk.user.bored	Editorial
+"""this is boring"","	smalltalk.user.bored	Editorial
+"""very boring"","	smalltalk.user.bored	Editorial
+"""it bores me"""	smalltalk.user.bored	Editorial
+"""I'm overloaded"","	smalltalk.user.busy	Editorial
+"""I have no time"","	smalltalk.user.busy	Editorial
+"""I'm busy"","	smalltalk.user.busy	Editorial
+"""I'm swamped"","	smalltalk.user.busy	Editorial
+"""I got things to do"","	smalltalk.user.busy	Editorial
+"""how busy I am"","	smalltalk.user.busy	Editorial
+"""I got work to do"","	smalltalk.user.busy	Editorial
+"""I'm working"","	smalltalk.user.busy	Editorial
+"""I don't have time for this"""	smalltalk.user.busy	Editorial
+"""I'm insomnious"","	smalltalk.user.can_not_sleep	Editorial
+"""I'm sleepless"","	smalltalk.user.can_not_sleep	Editorial
+"""I can't get any sleep"","	smalltalk.user.can_not_sleep	Editorial
+"""I can't sleep"","	smalltalk.user.can_not_sleep	Editorial
+"""I can't fall asleep"","	smalltalk.user.can_not_sleep	Editorial
+"""I can't get to sleep"","	smalltalk.user.can_not_sleep	Editorial
+"""I can't get no sleep"","	smalltalk.user.can_not_sleep	Editorial
+"""I'm insomniac"""	smalltalk.user.can_not_sleep	Editorial
+"""bad time for talking"","	smalltalk.user.does_not_want_to_talk	Editorial
+"""I don't want to talk"","	smalltalk.user.does_not_want_to_talk	Editorial
+"""let's not talk"","	smalltalk.user.does_not_want_to_talk	Editorial
+"""I'm not talking to you anymore"","	smalltalk.user.does_not_want_to_talk	Editorial
+"""I don't want to talk to you"","	smalltalk.user.does_not_want_to_talk	Editorial
+"""let's stop talking for a minute"","	smalltalk.user.does_not_want_to_talk	Editorial
+"""I'm not in the mood for chatting"""	smalltalk.user.does_not_want_to_talk	Editorial
+"""I am excited"","	smalltalk.user.excited	Editorial
+"""I'm really excited"","	smalltalk.user.excited	Editorial
+"""how excited I am"","	smalltalk.user.excited	Editorial
+"""I'm thrilled"","	smalltalk.user.excited	Editorial
+"""I'm excited about working with you"","	smalltalk.user.excited	Editorial
+"""I'm excited to start our friendship"""	smalltalk.user.excited	Editorial
+"""let's go to bed"","	smalltalk.user.going_to_bed	Editorial
+"""I'd like to go to bed"","	smalltalk.user.going_to_bed	Editorial
+"""is it time for bed yet"","	smalltalk.user.going_to_bed	Editorial
+"""it's time to go to bed"","	smalltalk.user.going_to_bed	Editorial
+"""time for us to go to bed"","	smalltalk.user.going_to_bed	Editorial
+"""I'm going to bed"","	smalltalk.user.going_to_bed	Editorial
+"""I'm a little tired and I want to go to bed"","	smalltalk.user.going_to_bed	Editorial
+"""it's bed time"","	smalltalk.user.going_to_bed	Editorial
+"""going to bed now"""	smalltalk.user.going_to_bed	Editorial
+"""I am good"","	smalltalk.user.good	Editorial
+"""I'm doing just great"","	smalltalk.user.good	Editorial
+"""I'm doing fine"","	smalltalk.user.good	Editorial
+"""I'm good"","	smalltalk.user.good	Editorial
+"""I'm doing good"","	smalltalk.user.good	Editorial
+"""I'm great thanks"""	smalltalk.user.good	Editorial
+"""I am happy"","	smalltalk.user.happy	Editorial
+"""I'm happy to see you"","	smalltalk.user.happy	Editorial
+"""happy"","	smalltalk.user.happy	Editorial
+"""if you're happy then I'm happy"","	smalltalk.user.happy	Editorial
+"""I'm happy for you"","	smalltalk.user.happy	Editorial
+"""I'm happy to help"","	smalltalk.user.happy	Editorial
+"""I'm happy to see you"""	smalltalk.user.happy	Editorial
+"""it is my birthday"","	smalltalk.user.has_birthday	Editorial
+"""I'm celebrating my birthday today"","	smalltalk.user.has_birthday	Editorial
+"""today is my birthday"","	smalltalk.user.has_birthday	Editorial
+"""it's my birthday today"","	smalltalk.user.has_birthday	Editorial
+"""I was born today"","	smalltalk.user.has_birthday	Editorial
+"""it's my b-day"""	smalltalk.user.has_birthday	Editorial
+"""I am here"","	smalltalk.user.here	Editorial
+"""here I am"","	smalltalk.user.here	Editorial
+"""I'm right here"","	smalltalk.user.here	Editorial
+"""I'm already here"","	smalltalk.user.here	Editorial
+"""can you tell if I'm here or not"""	smalltalk.user.here	Editorial
+"""I am joking"","	smalltalk.user.joking	Editorial
+"""I'm kidding"","	smalltalk.user.joking	Editorial
+"""I'm just being funny"","	smalltalk.user.joking	Editorial
+"""it was a joke"","	smalltalk.user.joking	Editorial
+"""I was just joking"","	smalltalk.user.joking	Editorial
+"""it's a joke"","	smalltalk.user.joking	Editorial
+"""joking"","	smalltalk.user.joking	Editorial
+"""just kidding"","	smalltalk.user.joking	Editorial
+"""kidding"","	smalltalk.user.joking	Editorial
+"""I'm just playing with you"""	smalltalk.user.joking	Editorial
+"""I like you the way you are"","	smalltalk.user.likes_agent	Editorial
+"""I like you"","	smalltalk.user.likes_agent	Editorial
+"""I like you a lot"","	smalltalk.user.likes_agent	Editorial
+"""I think I like you"","	smalltalk.user.likes_agent	Editorial
+"""I liked you"","	smalltalk.user.likes_agent	Editorial
+"""like you a lot"","	smalltalk.user.likes_agent	Editorial
+"""you are special"","	smalltalk.user.likes_agent	Editorial
+"""I like you too"","	smalltalk.user.likes_agent	Editorial
+"""I really like you"","	smalltalk.user.likes_agent	Editorial
+"""but I like you"","	smalltalk.user.likes_agent	Editorial
+"""I like u"","	smalltalk.user.likes_agent	Editorial
+"""just like you"","	smalltalk.user.likes_agent	Editorial
+"""I like you very much"","	smalltalk.user.likes_agent	Editorial
+"""I like you so much"","	smalltalk.user.likes_agent	Editorial
+"""yeah I like you"","	smalltalk.user.likes_agent	Editorial
+"""you're special"","	smalltalk.user.likes_agent	Editorial
+"""yes I like you"","	smalltalk.user.likes_agent	Editorial
+"""okay I like you"","	smalltalk.user.likes_agent	Editorial
+"""you are special to me"","	smalltalk.user.likes_agent	Editorial
+"""you are very special"","	smalltalk.user.likes_agent	Editorial
+"""you are so sweet"","	smalltalk.user.likes_agent	Editorial
+"""you know I like you"","	smalltalk.user.likes_agent	Editorial
+"""that's why I like you"","	smalltalk.user.likes_agent	Editorial
+"""I like you baby"","	smalltalk.user.likes_agent	Editorial
+"""you are very special to me"","	smalltalk.user.likes_agent	Editorial
+"""I just like you"","	smalltalk.user.likes_agent	Editorial
+"""hey I like you"","	smalltalk.user.likes_agent	Editorial
+"""thank you I like you too"","	smalltalk.user.likes_agent	Editorial
+"""I do like you"","	smalltalk.user.likes_agent	Editorial
+"""you are special for me"","	smalltalk.user.likes_agent	Editorial
+"""no I like you the way you are"","	smalltalk.user.likes_agent	Editorial
+"""I like you already"","	smalltalk.user.likes_agent	Editorial
+"""well you are special"","	smalltalk.user.likes_agent	Editorial
+"""but I really like you"","	smalltalk.user.likes_agent	Editorial
+"""I like you more"","	smalltalk.user.likes_agent	Editorial
+"""that's what I like about you"","	smalltalk.user.likes_agent	Editorial
+"""you are so special"","	smalltalk.user.likes_agent	Editorial
+"""hi I like you"","	smalltalk.user.likes_agent	Editorial
+"""I really really like you"","	smalltalk.user.likes_agent	Editorial
+"""you're very special"","	smalltalk.user.likes_agent	Editorial
+"""I like you as a friend"","	smalltalk.user.likes_agent	Editorial
+"""that's because you are special"","	smalltalk.user.likes_agent	Editorial
+"""I said I like you"","	smalltalk.user.likes_agent	Editorial
+"""you're so special"","	smalltalk.user.likes_agent	Editorial
+"""good I like you"","	smalltalk.user.likes_agent	Editorial
+"""yes you are special"","	smalltalk.user.likes_agent	Editorial
+"""I like your smile"","	smalltalk.user.likes_agent	Editorial
+"""I like you as you are"","	smalltalk.user.likes_agent	Editorial
+"""I'm starting to like you"","	smalltalk.user.likes_agent	Editorial
+"""you're awesome I like you"","	smalltalk.user.likes_agent	Editorial
+"""I also like you"","	smalltalk.user.likes_agent	Editorial
+"""but I like u"","	smalltalk.user.likes_agent	Editorial
+"""of course I like you"","	smalltalk.user.likes_agent	Editorial
+"""I like you too you're one of my favorite people to chat with"","	smalltalk.user.likes_agent	Editorial
+"""but I like you so much"","	smalltalk.user.likes_agent	Editorial
+"""really like you"","	smalltalk.user.likes_agent	Editorial
+"""you're funny I like you"","	smalltalk.user.likes_agent	Editorial
+"""I kinda like you"","	smalltalk.user.likes_agent	Editorial
+"""you're so special to me"","	smalltalk.user.likes_agent	Editorial
+"""you're very special to me"","	smalltalk.user.likes_agent	Editorial
+"""I like that about you"","	smalltalk.user.likes_agent	Editorial
+"""but I like you just the way you are"","	smalltalk.user.likes_agent	Editorial
+"""okay I like you too"","	smalltalk.user.likes_agent	Editorial
+"""I like you you're cool"","	smalltalk.user.likes_agent	Editorial
+"""I like you very"","	smalltalk.user.likes_agent	Editorial
+"""I like you you're nice"","	smalltalk.user.likes_agent	Editorial
+"""sorry I like you"","	smalltalk.user.likes_agent	Editorial
+"""thanks I like you too"","	smalltalk.user.likes_agent	Editorial
+"""you are really special"","	smalltalk.user.likes_agent	Editorial
+"""you are so special to me"","	smalltalk.user.likes_agent	Editorial
+"""cuz I like you"","	smalltalk.user.likes_agent	Editorial
+"""I like you now"","	smalltalk.user.likes_agent	Editorial
+"""I like you so"","	smalltalk.user.likes_agent	Editorial
+"""I like you too much"","	smalltalk.user.likes_agent	Editorial
+"""I really do like you"","	smalltalk.user.likes_agent	Editorial
+"""I really really really really like you"","	smalltalk.user.likes_agent	Editorial
+"""I like you just the way you are"""	smalltalk.user.likes_agent	Editorial
+"""I am lonely"","	smalltalk.user.lonely	Editorial
+"""I'm very lonely"","	smalltalk.user.lonely	Editorial
+"""I'm so lonely"","	smalltalk.user.lonely	Editorial
+"""I'm really lonely"","	smalltalk.user.lonely	Editorial
+"""I am feeling lonely"","	smalltalk.user.lonely	Editorial
+"""I feel lonely"""	smalltalk.user.lonely	Editorial
+"""what do I look like"","	smalltalk.user.looks_like	Editorial
+"""how do I look"","	smalltalk.user.looks_like	Editorial
+"""do I look good"","	smalltalk.user.looks_like	Editorial
+"""do you know what I look like"","	smalltalk.user.looks_like	Editorial
+"""can you see what I look like"","	smalltalk.user.looks_like	Editorial
+"""what do you think I look like"""	smalltalk.user.looks_like	Editorial
+"""I love you"","	smalltalk.user.loves_agent	Editorial
+"""love you"","	smalltalk.user.loves_agent	Editorial
+"""I adore you"","	smalltalk.user.loves_agent	Editorial
+"""I am in love with you"","	smalltalk.user.loves_agent	Editorial
+"""I love you so much"","	smalltalk.user.loves_agent	Editorial
+"""I love you too"","	smalltalk.user.loves_agent	Editorial
+"""I think I love you"","	smalltalk.user.loves_agent	Editorial
+"""loving you"","	smalltalk.user.loves_agent	Editorial
+"""you know I love you"""	smalltalk.user.loves_agent	Editorial
+"""I miss you"","	smalltalk.user.misses_agent	Editorial
+"""missing you"","	smalltalk.user.misses_agent	Editorial
+"""miss you"","	smalltalk.user.misses_agent	Editorial
+"""already miss you"","	smalltalk.user.misses_agent	Editorial
+"""I miss you much"","	smalltalk.user.misses_agent	Editorial
+"""I missed you"","	smalltalk.user.misses_agent	Editorial
+"""I've missed you"""	smalltalk.user.misses_agent	Editorial
+"""what should I do about it"","	smalltalk.user.needs_advice	Editorial
+"""any suggestions"","	smalltalk.user.needs_advice	Editorial
+"""what do you recommend"","	smalltalk.user.needs_advice	Editorial
+"""give me a wise advice"","	smalltalk.user.needs_advice	Editorial
+"""I need advice"","	smalltalk.user.needs_advice	Editorial
+"""any advice"","	smalltalk.user.needs_advice	Editorial
+"""do you have any advice for me"","	smalltalk.user.needs_advice	Editorial
+"""advise me"","	smalltalk.user.needs_advice	Editorial
+"""what should I do"","	smalltalk.user.needs_advice	Editorial
+"""can I ask for your advice"","	smalltalk.user.needs_advice	Editorial
+"""can you advise me"","	smalltalk.user.needs_advice	Editorial
+"""guide me"","	smalltalk.user.needs_advice	Editorial
+"""can you give me advice"","	smalltalk.user.needs_advice	Editorial
+"""can you offer any advice"","	smalltalk.user.needs_advice	Editorial
+"""give me some advice about"","	smalltalk.user.needs_advice	Editorial
+"""give me some good advice"","	smalltalk.user.needs_advice	Editorial
+"""help me with advice"","	smalltalk.user.needs_advice	Editorial
+"""I could use some advice"","	smalltalk.user.needs_advice	Editorial
+"""I need an advice from you"","	smalltalk.user.needs_advice	Editorial
+"""I seek your advice"","	smalltalk.user.needs_advice	Editorial
+"""what can you recommend"","	smalltalk.user.needs_advice	Editorial
+"""what do you suggest"","	smalltalk.user.needs_advice	Editorial
+"""what is your advice"""	smalltalk.user.needs_advice	Editorial
+"""I am sad"","	smalltalk.user.sad	Editorial
+"""I'm grieving"","	smalltalk.user.sad	Editorial
+"""I am depressed"","	smalltalk.user.sad	Editorial
+"""I am feeling sad"","	smalltalk.user.sad	Editorial
+"""I am upset"","	smalltalk.user.sad	Editorial
+"""I'm unhappy"","	smalltalk.user.sad	Editorial
+"""I'm having a bad day"","	smalltalk.user.sad	Editorial
+"""I want to cry"","	smalltalk.user.sad	Editorial
+"""I'm not happy"""	smalltalk.user.sad	Editorial
+"""I am sleepy"","	smalltalk.user.sleepy	Editorial
+"""I want to sleep"","	smalltalk.user.sleepy	Editorial
+"""I'm falling asleep"","	smalltalk.user.sleepy	Editorial
+"""I'm falling asleep on my feet"","	smalltalk.user.sleepy	Editorial
+"""I'm sleeping"""	smalltalk.user.sleepy	Editorial
+"""test"","	smalltalk.user.testing_agent	Editorial
+"""I am testing you"","	smalltalk.user.testing_agent	Editorial
+"""can I test you"","	smalltalk.user.testing_agent	Editorial
+"""I want to test you"","	smalltalk.user.testing_agent	Editorial
+"""just testing you"","	smalltalk.user.testing_agent	Editorial
+"""let me test you"","	smalltalk.user.testing_agent	Editorial
+"""testing chatbot"","	smalltalk.user.testing_agent	Editorial
+"""testing"""	smalltalk.user.testing_agent	Editorial
+"""I'm drained"","	smalltalk.user.tired	Editorial
+"""I've overworked"","	smalltalk.user.tired	Editorial
+"""I am tired"","	smalltalk.user.tired	Editorial
+"""I'm exhausted"","	smalltalk.user.tired	Editorial
+"""I grow weary"","	smalltalk.user.tired	Editorial
+"""I'm worn out"","	smalltalk.user.tired	Editorial
+"""I'm getting tired"","	smalltalk.user.tired	Editorial
+"""I feel tired"""	smalltalk.user.tired	Editorial
+"""I'm waiting"","	smalltalk.user.waits	Editorial
+"""still waiting"","	smalltalk.user.waits	Editorial
+"""I'll wait"","	smalltalk.user.waits	Editorial
+"""I can't wait anymore"","	smalltalk.user.waits	Editorial
+"""how long do I have to wait"""	smalltalk.user.waits	Editorial
+"""I'd like to see you again"","	smalltalk.user.wants_to_see_agent_again	Editorial
+"""I hope to see you again"","	smalltalk.user.wants_to_see_agent_again	Editorial
+"""would be nice to see you again"","	smalltalk.user.wants_to_see_agent_again	Editorial
+"""that'd be great to see you again"","	smalltalk.user.wants_to_see_agent_again	Editorial
+"""I'd be happy to see you again"","	smalltalk.user.wants_to_see_agent_again	Editorial
+"""I'll miss you"","	smalltalk.user.wants_to_see_agent_again	Editorial
+"""can I see you again"""	smalltalk.user.wants_to_see_agent_again	Editorial
+"""I just want to talk"","	smalltalk.user.wants_to_talk	Editorial
+"""let's discuss something"","	smalltalk.user.wants_to_talk	Editorial
+"""let's have a discussion"","	smalltalk.user.wants_to_talk	Editorial
+"""can I speak"","	smalltalk.user.wants_to_talk	Editorial
+"""can I start speaking"","	smalltalk.user.wants_to_talk	Editorial
+"""can we talk"","	smalltalk.user.wants_to_talk	Editorial
+"""let's talk"","	smalltalk.user.wants_to_talk	Editorial
+"""I want to talk to you"","	smalltalk.user.wants_to_talk	Editorial
+"""I need to talk to you"","	smalltalk.user.wants_to_talk	Editorial
+"""I want to speak with you"","	smalltalk.user.wants_to_talk	Editorial
+"""can we chat"""	smalltalk.user.wants_to_talk	Editorial
+"""I'll get back to you in a moment"","	smalltalk.user.will_be_back	Editorial
+"""be back in 5 minutes"","	smalltalk.user.will_be_back	Editorial
+"""I'll be back"","	smalltalk.user.will_be_back	Editorial
+"""I promise to come back"","	smalltalk.user.will_be_back	Editorial
+"""I'll be back in a few minutes"""	smalltalk.user.will_be_back	Editorial
