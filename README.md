@@ -5,7 +5,7 @@ Ever had the problem of needing to handle countless types of small talk (e.g. "h
 
 I have used QnA maker because 1. It is the most cost effective solution, and 2. Creating an intent for each type of smalltalk intent is not scalable in the long run. I understand that QnA maker is traditionally used for knowledge base scenarios, but hey if it works then why not. 
 
-How it works: An excel containing the question and intent matches is uploaded to QnA maker. In the bot, the result from QnA maker is mapped to a list of possible responses (see *smalltalk.js* in the *lib* folder), which are selected at random. 
+**How it works:** An excel containing the question and intent matches is uploaded to QnA maker. In the bot, the result from QnA maker is mapped to a list of possible responses (see *smalltalk.js* in the *lib* folder), which are selected at random. 
 
 ## Demo ##
 To be uploaded
@@ -30,7 +30,7 @@ var QnAClient = require('../lib/client');
 ...
 var qnaClient = new QnAClient({
     knowledgeBaseId: process.env.KB_ID,
-    subscriptionKey: process.env.QNA_KEY
+    subscriptionKey: process.env.QNA_KEY,
     scoreThreshold: 0.5 // OPTIONAL: Default value is 0.2
 });
 ...
