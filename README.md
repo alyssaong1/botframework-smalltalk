@@ -117,4 +117,7 @@ Feel free to contribute to this project! Use the following guidelines:
 4. Push your work back up to your fork
 5. Submit a Pull Request on Github so that I can review your change
 
+## Additional Links ##
 
+- [BestMatchDialog (C#) to handle greetings by Gary Pretty](http://www.garypretty.co.uk/2016/08/01/bestmatchdialog-for-microsoft-bot-framework-now-available-via-nuget/)
+- [1000 must have utterances in LUIS by Benjamin Perkins](https://blogs.msdn.microsoft.com/benjaminperkins/2016/12/13/1000-must-have-utterances-for-your-chatbot-using-luis/)
