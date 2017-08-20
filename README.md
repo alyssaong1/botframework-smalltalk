@@ -13,12 +13,16 @@ To be uploaded
 ## Installation and usage instructions ##
 
 ### Configure QnA Maker
-Create a QnA maker service for free [here](https://qnamaker.ai). Start from scratch.
+Create a QnA maker service for free [here](https://qnamaker.ai).
 
 Click on "Replace knowledge base". Upload the smalltalk.tsv file. Publish it as a web service.
 
+![qnasetup](http://i.imgur.com/2ABvOpS.gif)
+
 ### Populate the environment variables
 Go into the .env file and replace with knowledge base id and subscription key which you can find in the settings page of the QnA maker portal.
+
+![envsetup](http://i.imgur.com/GtzQZ9s.gif)
 
 ### Running the sample
 
