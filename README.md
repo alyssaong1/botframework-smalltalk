@@ -1,5 +1,5 @@
 # Small Talk Module for the Microsoft Bot Framework #
-Ever had the problem of needing to handle countless types of small talk (e.g. "hello", "good afternoon", "goodbye", "you're terrible", "what's up")? This is a plug n play small talk module, using QnA maker and combinable with LUIS. 
+Ever had the problem of needing to handle countless types of small talk (e.g. "hello", "good afternoon", "goodbye", "you're terrible", "what's up")? This is an easy to use, plug-n-play small talk module, using QnA maker and combinable with LUIS. 
 
 *Note: This is a port over from API.AI's small talk module. It uses the same intents and scripted replies.*
 
@@ -7,9 +7,11 @@ I have used QnA maker because 1. It is cost effective, and 2. Creating an intent
 
 **How it works:** An excel containing the question and intent matches is uploaded to QnA maker. In the bot, the result from QnA maker is mapped to a list of possible responses (see *smalltalk.js* in the *lib* folder), which are selected at random. 
 
+
 ## Demo ##
 
 ![demo](http://i.imgur.com/mxbqRfh.gif)
+
 
 ## Installation and Usage ##
 
@@ -60,6 +62,7 @@ qnaClient.post({ question: session.message.text }, function (err, res) {
 
 The `scoreThreshold` field is modifiable. It is the confidence level required for the reply to be sent back to the user. A high value means that QnA maker has to be very sure of what the user has said before sending the reply back.
 
+
 ## Extensions ##
 
 ### Integrating with your existing LUIS model
@@ -103,6 +106,7 @@ You can continue to train the smalltalk module to be more accurate or handle mor
 
 To modify the responses by the smalltalk module, you can go into smalltalk.js to add/remove the responses for the various types of smalltalk. 
 
+
 ## Contributing ##
 
 Feel free to contribute to this project! Use the following guidelines:
@@ -113,5 +117,4 @@ Feel free to contribute to this project! Use the following guidelines:
 4. Push your work back up to your fork
 5. Submit a Pull Request on Github so that I can review your change
 
-## Additional links ##
 
