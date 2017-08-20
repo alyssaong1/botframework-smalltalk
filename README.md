@@ -1,9 +1,9 @@
 # Small Talk Module for the Microsoft Bot Framework #
-Ever had the problem of needing to handle countless types of small talk (e.g. "hello", "goodbye", "tell me a joke", "what's up")? This is a plug n play small talk module, using QnA maker and combinable with LUIS. 
+Ever had the problem of needing to handle countless types of small talk (e.g. "hello", "good afternoon", "goodbye", "you're terrible", "what's up")? This is a plug n play small talk module, using QnA maker and combinable with LUIS. 
 
 *Note: This is a port over from API.AI's small talk module. It uses the same intents and scripted replies.*
 
-I have used QnA maker because 1. It is the most cost effective solution, and 2. Creating an intent for each type of smalltalk intent is not scalable in the long run. I understand that QnA maker is traditionally used for knowledge base scenarios, but hey if it works then why not. 
+I have used QnA maker because 1. It is cost effective, and 2. Creating an intent for each type of smalltalk is not scalable in the long run. I understand that QnA maker is traditionally used for knowledge base scenarios, but hey if it works then why not. 
 
 **How it works:** An excel containing the question and intent matches is uploaded to QnA maker. In the bot, the result from QnA maker is mapped to a list of possible responses (see *smalltalk.js* in the *lib* folder), which are selected at random. 
 
@@ -11,7 +11,7 @@ I have used QnA maker because 1. It is the most cost effective solution, and 2. 
 
 ![demo](http://i.imgur.com/mxbqRfh.gif)
 
-## Installation and usage instructions ##
+## Installation and Usage ##
 
 ### Configure QnA Maker
 Create a QnA maker service for free [here](https://qnamaker.ai).
@@ -68,7 +68,9 @@ We are going to create an intent called "smalltalk" and upload all the smalltalk
 
 Go to the LUIS portal, create an intent called "smalltalk". Then `cd` into the luis folder, and run `node uploadtoluis`. Wait for all the utterances to be uploaded to LUIS (you'll see the batch request success message about ~10 times). You should see on your intents dashboard that there are 1400+ utterances in the smalltalk intent. 
 
-Retrain and publish your LUIS model - any smalltalk from the user will now be routed to the smalltalk intent, which you can pass to the QnA maker smalltalk module in your code.
+![smalltalk-luis](http://i.imgur.com/tZMQH3H.png)
+
+Retrain and publish your LUIS model - any smalltalk from the user will now be routed to the smalltalk intent, which you can pass to the QnA maker smalltalk module in your code. **I have not yet tested the effectiveness of this - do let me know how it goes if you integrate smalltalk with your LUIS model.**
 
 ### Adding a new type of smalltalk
 
