@@ -16,7 +16,7 @@ I have used QnA maker because 1. It is the most cost effective solution, and 2. 
 ### Configure QnA Maker
 Create a QnA maker service for free [here](https://qnamaker.ai).
 
-Click on "Replace knowledge base". Upload the smalltalk.tsv file. Publish it as a web service.
+Click on "Replace knowledge base". Upload the smalltalkkb.tsv file. Publish it as a web service.
 
 ![qnasetup](http://i.imgur.com/2ABvOpS.gif)
 
@@ -29,7 +29,8 @@ Go into the .env file and replace with knowledge base id and subscription key wh
 
 Build using `npm install` then run it using `npm start`. You can now test it in the Bot Framework emulator.
 
-### Call the QnA module in your own bot code
+### Example: calling the smalltalk module in your bot code 
+
 ```js
 var QnAClient = require('../lib/client');
 ...
@@ -57,15 +58,58 @@ qnaClient.post({ question: session.message.text }, function (err, res) {
 });
 ```
 
+The `scoreThreshold` field is modifiable. It is the confidence level required for the reply to be sent back to the user. A high value means that QnA maker has to be very sure of what the user has said before sending the reply back.
+
 ## Extensions ##
 
-### Optional: Integrating with your existing LUIS model
+### Integrating with your existing LUIS model
+
 We are going to create an intent called "smalltalk" and upload all the smalltalk utterances into this intent through the LUIS API. 
 
 Go to the LUIS portal, create an intent called "smalltalk". Then `cd` into the luis folder, and run `node uploadtoluis`. Wait for all the utterances to be uploaded to LUIS (you'll see the batch request success message about ~10 times). You should see on your intents dashboard that there are 1400+ utterances in the smalltalk intent. 
 
 Retrain and publish your LUIS model - any smalltalk from the user will now be routed to the smalltalk intent, which you can pass to the QnA maker smalltalk module in your code.
 
-### Customising responses ###
-You can customize responses or add additional utterances through the .tsv file (then reupload to QnA maker) or directly in the QnA maker portal. 
+### Adding a new type of smalltalk
+
+Let's say you wanted your smalltalk module to handle when the user wants a joke. Add the following to the smalltalkkb.tsv file:
+
+![addsmalltalk](http://i.imgur.com/Shwnb9e.png)
+
+Replace your knowledge base in QnA maker with the updated one and publish.
+
+Then, add the following to the smalltalk.js file.
+
+```js
+[
+    ...
+    "smalltalk.agent.tell_joke": [
+        "Standing in the park, I was wondering why a Frisbee gets larger the closer it gets. Then it hit me.",
+        "I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.",
+        "The early bird gets the worm but the late worm gets to live."
+    ]
+]
+```
+
+### Improving the smalltalk module
+
+You may find that the current smalltalk module is still not accurate enough. Please note that even the smalltalk module on API.AI is not totally accurate - it will still require additional training and refinement on your part.
+
+You can continue to train the smalltalk module to be more accurate or handle more types of smalltalk by adding or removing utterances in the smalltalkkb.tsv file (then reupload to QnA maker), or directly train it using the QnA maker portal. 
+
+### Modifying the responses
+
+To modify the responses by the smalltalk module, you can go into smalltalk.js to add/remove the responses for the various types of smalltalk. 
+
+## Contributing ##
+
+Feel free to contribute to this project! Use the following guidelines:
+
+1. Fork the repo on GitHub
+2. Clone the project to your own machine
+3. Commit changes to your own branch
+4. Push your work back up to your fork
+5. Submit a Pull Request on Github so that I can review your change
+
+## Additional links ##
 
