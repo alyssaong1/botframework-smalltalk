@@ -8,7 +8,8 @@ I have used QnA maker because 1. It is the most cost effective solution, and 2. 
 **How it works:** An excel containing the question and intent matches is uploaded to QnA maker. In the bot, the result from QnA maker is mapped to a list of possible responses (see *smalltalk.js* in the *lib* folder), which are selected at random. 
 
 ## Demo ##
-To be uploaded
+
+![demo](http://i.imgur.com/mxbqRfh.gif)
 
 ## Installation and usage instructions ##
 
@@ -56,13 +57,15 @@ qnaClient.post({ question: session.message.text }, function (err, res) {
 });
 ```
 
+## Extensions ##
+
 ### Optional: Integrating with your existing LUIS model
 We are going to create an intent called "smalltalk" and upload all the smalltalk utterances into this intent through the LUIS API. 
 
-Go to the LUIS portal, create an intent called "smalltalk". Then `cd` into the luis folder, and run `node uploadtoluis`. Wait for all the utterances to be uploaded to LUIS (you'll see the batch request success message about ~10 times). You should see on your intents dashboard that there are ~1473 utterances in the smalltalk intent. 
+Go to the LUIS portal, create an intent called "smalltalk". Then `cd` into the luis folder, and run `node uploadtoluis`. Wait for all the utterances to be uploaded to LUIS (you'll see the batch request success message about ~10 times). You should see on your intents dashboard that there are 1400+ utterances in the smalltalk intent. 
 
 Retrain and publish your LUIS model - any smalltalk from the user will now be routed to the smalltalk intent, which you can pass to the QnA maker smalltalk module in your code.
 
 ### Customising responses ###
-You can customize responses or add additional utterances through the .tsv file (then reupload to QnA maker) or directly in the QnA maker portal.
+You can customize responses or add additional utterances through the .tsv file (then reupload to QnA maker) or directly in the QnA maker portal. 
 
