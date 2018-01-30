@@ -1,5 +1,5 @@
 # Small Talk Module for the Microsoft Bot Framework #
-Ever had the problem of needing to handle countless types of small talk (e.g. "hello", "good afternoon", "goodbye", "you're terrible", "what's up")? This is an easy to use, plug-n-play small talk module, using QnA maker and combinable with LUIS. 
+Ever had the problem of needing to handle countless types of conversational chatter (e.g. "hello", "good afternoon", "goodbye", "you're terrible", "what's up")? This is an easy to use, plug-n-play small talk module, using QnA maker and combinable with LUIS. 
 
 *Note: This is a port over from API.AI's small talk module. It uses the same intents and scripted replies.*
 
@@ -125,3 +125,7 @@ Feel free to contribute to this project! Use the following guidelines:
 
 - [BestMatchDialog (C#) to handle greetings by Gary Pretty](http://www.garypretty.co.uk/2016/08/01/bestmatchdialog-for-microsoft-bot-framework-now-available-via-nuget/)
 - [1000 must have utterances in LUIS by Benjamin Perkins](https://blogs.msdn.microsoft.com/benjaminperkins/2016/12/13/1000-must-have-utterances-for-your-chatbot-using-luis/)
+
+## TO-DOs ##
+- Publish npm package for this
+- Provide an alternative to QnA maker (natural npm package's classifier)
