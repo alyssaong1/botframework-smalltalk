@@ -69,11 +69,15 @@ The `scoreThreshold` field is modifiable. It is the confidence level required fo
 
 We are going to create an intent called "smalltalk" and upload all the smalltalk utterances into this intent through the LUIS API. 
 
-Go to the LUIS portal, create an intent called "smalltalk". Then `cd` into the luis folder, and run `node uploadtoluis`. Wait for all the utterances to be uploaded to LUIS (you'll see the batch request success message about ~10 times). You should see on your intents dashboard that there are 1400+ utterances in the smalltalk intent. 
+Go to the LUIS portal, create an intent called "smalltalk". 
+
+You will need to update the .env file in the luis folder. Obtain your LUIS app id, subscription key and version from the LUIS portal. Make sure to use the **starter key** for the LUIS subscription key, because the LUIS API requires this specific key.
+
+Then `cd` into the luis folder, and run `node uploadtoluis`. Wait for all the utterances to be uploaded to LUIS (you'll see the batch request success message about ~10 times). You should see on your intents dashboard that there are 1400+ utterances in the smalltalk intent. 
 
 ![smalltalk-luis](http://i.imgur.com/tZMQH3H.png)
 
-Retrain and publish your LUIS model - any smalltalk from the user will now be routed to the smalltalk intent, which you can pass to the QnA maker smalltalk module in your code. **I have not yet tested the effectiveness of this - do let me know how it goes if you integrate smalltalk with your LUIS model.**
+Retrain and publish your LUIS model - any smalltalk from the user will now be routed to the smalltalk intent, which you can pass to the QnA maker smalltalk module in your code. 
 
 ### Adding a new type of smalltalk
 
