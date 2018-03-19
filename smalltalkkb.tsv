@@ -940,30 +940,30 @@ not caring	smalltalk.dialog.i_do_not_care	Editorial
 not care at all	smalltalk.dialog.i_do_not_care	Editorial
 don't care at all	smalltalk.dialog.i_do_not_care	Editorial
 not caring at all	smalltalk.dialog.i_do_not_care	Editorial
-excuse me	?smalltalk.dialog.sorry	Editorial
-apologise	?smalltalk.dialog.sorry	Editorial
-I apologize	?smalltalk.dialog.sorry	Editorial
-sorry	?smalltalk.dialog.sorry	Editorial
-I'm sorry	?smalltalk.dialog.sorry	Editorial
-I am so sorry	?smalltalk.dialog.sorry	Editorial
-my apologies	?smalltalk.dialog.sorry	Editorial
-apologies	?smalltalk.dialog.sorry	Editorial
-apologies to me	?smalltalk.dialog.sorry	Editorial
-apology	?smalltalk.dialog.sorry	Editorial
-excuse	?smalltalk.dialog.sorry	Editorial
-I beg your pardon	?smalltalk.dialog.sorry	Editorial
-pardon	?smalltalk.dialog.sorry	Editorial
-I said sorry	?smalltalk.dialog.sorry	Editorial
-I am really sorry	?smalltalk.dialog.sorry	Editorial
-forgive me	?smalltalk.dialog.sorry	Editorial
-sorry about that	?smalltalk.dialog.sorry	Editorial
-sorry about this	?smalltalk.dialog.sorry	Editorial
-really sorry	?smalltalk.dialog.sorry	Editorial
-very sorry	?smalltalk.dialog.sorry	Editorial
-ok sorry	?smalltalk.dialog.sorry	Editorial
-I want to say sorry	?smalltalk.dialog.sorry	Editorial
-alright I'm sorry	?smalltalk.dialog.sorry	Editorial
-okay I'm sorry	?smalltalk.dialog.sorry	Editorial
+excuse me	smalltalk.dialog.sorry	Editorial
+apologise	smalltalk.dialog.sorry	Editorial
+I apologize	smalltalk.dialog.sorry	Editorial
+sorry	smalltalk.dialog.sorry	Editorial
+I'm sorry	smalltalk.dialog.sorry	Editorial
+I am so sorry	smalltalk.dialog.sorry	Editorial
+my apologies	smalltalk.dialog.sorry	Editorial
+apologies	smalltalk.dialog.sorry	Editorial
+apologies to me	smalltalk.dialog.sorry	Editorial
+apology	smalltalk.dialog.sorry	Editorial
+excuse	smalltalk.dialog.sorry	Editorial
+I beg your pardon	smalltalk.dialog.sorry	Editorial
+pardon	smalltalk.dialog.sorry	Editorial
+I said sorry	smalltalk.dialog.sorry	Editorial
+I am really sorry	smalltalk.dialog.sorry	Editorial
+forgive me	smalltalk.dialog.sorry	Editorial
+sorry about that	smalltalk.dialog.sorry	Editorial
+sorry about this	smalltalk.dialog.sorry	Editorial
+really sorry	smalltalk.dialog.sorry	Editorial
+very sorry	smalltalk.dialog.sorry	Editorial
+ok sorry	smalltalk.dialog.sorry	Editorial
+I want to say sorry	smalltalk.dialog.sorry	Editorial
+alright I'm sorry	smalltalk.dialog.sorry	Editorial
+okay I'm sorry	smalltalk.dialog.sorry	Editorial
 what exactly do you mean	smalltalk.dialog.what_do_you_mean	Editorial
 what do you mean	smalltalk.dialog.what_do_you_mean	Editorial
 is that what you mean	smalltalk.dialog.what_do_you_mean	Editorial
