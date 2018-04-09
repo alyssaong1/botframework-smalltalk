@@ -1,6 +1,6 @@
 # Small Talk Module for the Microsoft Bot Framework #
 
-**Now supports the npm Natural package.**
+**Update: Now supports the npm Natural package**
 
 Ever had the problem of needing to handle countless types of conversational chatter (e.g. "hello", "good afternoon", "goodbye", "you're terrible", "what's up")? This is an easy to use, plug-n-play small talk module, using QnA maker or the open source Natural npm package. This module is also combinable with LUIS. 
 
