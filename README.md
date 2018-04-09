@@ -1,7 +1,10 @@
 # Small Talk Module for the Microsoft Bot Framework #
-Ever had the problem of needing to handle countless types of conversational chatter (e.g. "hello", "good afternoon", "goodbye", "you're terrible", "what's up")? This is an easy to use, plug-n-play small talk module, using QnA maker and combinable with LUIS. 
 
-*Note: This is a port over from API.AI's small talk module. It uses the same intents and scripted replies.*
+**Now supports the npm Natural package.**
+
+Ever had the problem of needing to handle countless types of conversational chatter (e.g. "hello", "good afternoon", "goodbye", "you're terrible", "what's up")? This is an easy to use, plug-n-play small talk module, using QnA maker or the open source Natural npm package. This module is also combinable with LUIS. 
+
+*Note: This is a port over from API.AI/Dialogflow's small talk module. It uses the same intents and scripted replies.*
 
 I have used QnA maker because 1. It is cost effective, and 2. Creating an intent for each type of smalltalk is not scalable in the long run. I understand that QnA maker is traditionally used for knowledge base scenarios, but hey if it works then why not. 
 
@@ -14,6 +17,8 @@ I have used QnA maker because 1. It is cost effective, and 2. Creating an intent
 
 
 ## Installation and Usage ##
+
+## Option 1: Using QnA maker
 
 ### Configure QnA Maker
 Create a QnA maker service for free [here](https://qnamaker.ai).
@@ -62,6 +67,71 @@ qnaClient.post({ question: session.message.text }, function (err, res) {
 
 The `scoreThreshold` field is modifiable. It is the confidence level required for the reply to be sent back to the user. A high value means that QnA maker has to be very sure of what the user has said before sending the reply back.
 
+## Option 2: Using the npm Natural package
+
+This is an open source option which you may like to explore. It's got a bit more setup than Option 1, especially if you would like to serve this model on a separate server to your bot. 
+
+Documentation on Natural [here](https://www.npmjs.com/package/natural).
+
+### Train your classification model
+
+First of all, restore our npm packages using the following command:
+
+```
+npm install
+```
+
+Go into natural/train-model.js. This contains the code to train your classifier using the Node Natural package. To run the code, do the following:
+
+```bash
+node natural/train-model.js
+```
+
+You should see the following output from running the command:
+```bash
+Training complete for Small talk classifier.
+Small talk classifier saved as smalltalk-classifier.json.
+```
+
+You should see a new file under the `natural` folder called `smalltalk-classifier.json`. This contains your trained classifier model, which you will now load into the bot code and use. 
+
+### Use your smalltalk classifier in your bot code
+
+The `bot/index-natural.js` file contains the bot code that uses the Natural classifier you just trained (instead of QnA maker). To run this bot, go into the `app.js` file and modify the following line when initializing the bot:
+
+```js
+var bot = require('./bot/index-natural.js');
+```
+
+Now run the bot using `npm start`. You can now test it in the Bot Framework emulator.\
+
+### Example: calling the smalltalk Natural classifier in your bot code 
+
+```js
+const natural = require('natural');
+const smallTalkReplies = require('../lib/smalltalk');
+
+let st_classifier = null;
+natural.BayesClassifier.load('natural/smalltalk-classifier.json', null, function(err, classifier) {
+   st_classifier = classifier;
+});
+
+...
+
+bot.dialog('/', [
+    (session, args) => {
+        // Post user's question to classifier
+        var intent = st_classifier.classify(session.message.text);
+        // Obtain the response based on intent
+        var botreplylist = smallTalkReplies[intent];
+        var botreply = botreplylist[Math.floor(Math.random() * botreplylist.length)];
+        // Send response back to user
+        session.send(botreply);
+    }
+]);
+```
+
+More details on configuring the Natural classifier [here](https://www.npmjs.com/package/natural#classifiers).
 
 ## Extensions ##
 
