@@ -16,6 +16,13 @@ Ever had the problem of needing to handle countless types of conversational chat
 
 ## Installation and Usage ##
 
+First of all, clone this repo by running the following in the command line:
+```bash
+git clone https://github.com/alyssaong1/botframework-smalltalk.git
+```
+
+Now you have 2 options, either using QnA maker or the Natural package to power your bot's NLP capabilities. 
+
 ## Option 1: Using QnA maker
 
 ### Configure QnA Maker
