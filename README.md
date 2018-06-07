@@ -6,9 +6,7 @@ Ever had the problem of needing to handle countless types of conversational chat
 
 *Note: This is a port over from API.AI/Dialogflow's small talk module. It uses the same intents and scripted replies.*
 
-I have used QnA maker because 1. It is cost effective, and 2. Creating an intent for each type of smalltalk is not scalable in the long run. I understand that QnA maker is traditionally used for knowledge base scenarios, but hey if it works then why not. 
-
-**How it works:** An excel containing the question and intent matches is uploaded to QnA maker. In the bot, the result from QnA maker is mapped to a list of possible responses (see *smalltalk.js* in the *lib* folder), which are selected at random. 
+**How it works:** An excel containing the question and intent matches is uploaded to [QnA maker](https://qnamaker.ai). In the bot, the result from QnA maker is mapped to a list of possible responses (see *smalltalk.js* in the *lib* folder), which are selected at random. 
 
 
 ## Demo ##
@@ -193,9 +191,9 @@ Feel free to contribute to this project! Use the following guidelines:
 
 ## Additional Links ##
 
+- Microsoft's [Project Personality Chat](https://github.com/Microsoft/BotBuilder-PersonalityChat), a .NET SDK for integrating small talk into your bot
 - [BestMatchDialog (C#) to handle greetings by Gary Pretty](http://www.garypretty.co.uk/2016/08/01/bestmatchdialog-for-microsoft-bot-framework-now-available-via-nuget/)
 - [1000 must have utterances in LUIS by Benjamin Perkins](https://blogs.msdn.microsoft.com/benjaminperkins/2016/12/13/1000-must-have-utterances-for-your-chatbot-using-luis/)
 
 ## TO-DOs ##
 - Publish npm package for this
-- Provide an alternative to QnA maker (natural npm package's classifier)
